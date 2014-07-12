@@ -36,19 +36,23 @@ function getAngelData(path, cb) {
 }
 
 function checkForMultiple(job_field, role, cb){ // Given a json field that returns array check for all array elements in string
+    var rank = 0;
     for (var i in role){
         if(job_field.indexOf(role[i]) > -1 ) {
-            return true;
+            rank++;
         }
     }
+    return rank;
 }
 
 function findViableJobs(jobs, person, cb){
     var viable_job = [];
+    var job_rank;
     jobs.forEach(function(job){
         if (job.job_type == person.job_type){
-            if(checkForMultiple(job.title, person.role) === true){
-                viable_job.push(job.id);
+            job_rank = checkForMultiple(job.title, person.role);
+            if(job_rank > 0){
+                viable_job.push([job.id,job_rank]);
             }
         }
     });

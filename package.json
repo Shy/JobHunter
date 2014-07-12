@@ -2,7 +2,7 @@
   "name": "JobHunter",
   "version": "0.0.0",
   "description": "Solution to help people find jobs. ",
-  "main": "hello.js",
+  "main": "JobHunter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
