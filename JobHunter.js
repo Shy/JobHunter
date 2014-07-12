@@ -87,7 +87,14 @@ getPerson(function (err,person) {
             var viable_job = findViableJobs(jobs, person); // Check Jobs for viability based on user set criteria
             viable_job = viable_job.sort(function(a, b){return b[0]-a[0];});
 
-            for (var s = 0; s < 10; s++){
+
+            var output_len =10;
+
+            if (viable_job.length < output_len){
+                output_len = viable_job.length;
+            }
+
+            for (var s = 0; s < output_len; s++){
                 console.log(viable_job[s]);
             }
         });
