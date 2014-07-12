@@ -38,8 +38,10 @@ function getAngelData(path, cb) {
 function checkForMultiple(job_field, role, cb){ // Given a json field that returns array check for all array elements in string
     var rank = 0;
     for (var i in role){
-        if(job_field.indexOf(role[i]) > -1 ) {
-            rank++;
+        if (job_field !== null){
+            if(job_field.toLowerCase().indexOf(role[i].toLowerCase()) > -1 ) {
+                rank++;
+            }
         }
     }
     return rank;
@@ -50,9 +52,9 @@ function findViableJobs(jobs, person, cb){
     var job_rank;
     jobs.forEach(function(job){
         if (job.job_type == person.job_type){
-            job_rank = checkForMultiple(job.title, person.role);
+            job_rank = checkForMultiple(job.title, person.role) + checkForMultiple(job.description, person.stack);
             if(job_rank > 0){
-                viable_job.push([job.id,job_rank]);
+                viable_job.push([job_rank, job.id]);
             }
         }
     });
@@ -83,8 +85,11 @@ getPerson(function (err,person) {
             jobs = underscore.flatten(jobs, true);
 
             var viable_job = findViableJobs(jobs, person); // Check Jobs for viability based on user set criteria
+            viable_job = viable_job.sort(function(a, b){return b[0]-a[0];});
 
-            console.log(viable_job);
+            for (var s = 0; s < 10; s++){
+                console.log(viable_job[s]);
+            }
         });
     });
 
