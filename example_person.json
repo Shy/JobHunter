@@ -1,0 +1,13 @@
+{
+    "person": {
+        "role" : ["Developer", "Engineer"],
+        "stack": [
+            "C++",
+            "Python",
+            "Web",
+            "Node"
+        ],
+        "location_desired": ["London", "New York", "San Francisco"],
+        "job_type": "full-time"
+    }
+}

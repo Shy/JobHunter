@@ -1,0 +1,3927 @@
+{
+  "jobs": [
+    {
+      "id": 32886,
+      "title": "UI/UX Designer & Prototyper",
+      "description": "This position involves creating and evolving UI/UX on both mobile and web apps. The typical candidate should be equally visual and verbal. We are looking for a perfectionist who doesn’t want to compromise and who is obsessed with details. This mentality should reflect the candidate’s lifestyle where he/she strongly cares about the products they use in life and wish to make them a little better.\n\nExperience \n- A portfolio of product designs that have shipped on both web apps and iOS apps\n- Ability to think at a high level about product strategy and able to execute on visual details\n- Enough engineering fluency to talk sensibly with engineers about the feasibility of your designs\n- Excellent communication skills — you should be able to clearly articulate your design decisions. You give and take critique gladly, and love working within a small design team.\n- Preferably a degree in Cognitive Science, Human Factors, Human-Computer Interaction, Symbolic Systems, Product Design, or similar\n\nResponsibilities \n- Participate in product design and discussions that take concepts to production\n- Work directly with iOS and back-end engineers to deliver product specs and assets\n- Contribute to high-level strategic decisions with the rest of the product, engineering, and executive teams\n- Partner with engineers and other designers to keep the user experience simple and intuitive \n",
+      "created_at": "2014-07-12T15:25:11Z",
+      "updated_at": "2014-07-12T15:28:23Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "1.0",
+      "equity_vest": "2.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 70000,
+      "salary_max": 100000,
+      "angellist_url": "https://angel.co/jobs?startup_id=342778",
+      "tags": [
+        {
+          "id": 15520,
+          "tag_type": "SkillTag",
+          "name": "graphic design",
+          "display_name": "Graphic Design",
+          "angellist_url": "https://angel.co/graphic-design"
+        },
+        {
+          "id": 15537,
+          "tag_type": "SkillTag",
+          "name": "user experience design",
+          "display_name": "User Experience Design",
+          "angellist_url": "https://angel.co/user-experience-design-1"
+        },
+        {
+          "id": 15706,
+          "tag_type": "SkillTag",
+          "name": "photoshop",
+          "display_name": "Photoshop",
+          "angellist_url": "https://angel.co/photoshop"
+        },
+        {
+          "id": 16311,
+          "tag_type": "SkillTag",
+          "name": "design",
+          "display_name": "Design",
+          "angellist_url": "https://angel.co/design-1"
+        },
+        {
+          "id": 17284,
+          "tag_type": "SkillTag",
+          "name": "illustrator",
+          "display_name": "Illustrator",
+          "angellist_url": "https://angel.co/illustrator"
+        },
+        {
+          "id": 78313,
+          "tag_type": "SkillTag",
+          "name": "keynote",
+          "display_name": "Keynote",
+          "angellist_url": "https://angel.co/keynote"
+        },
+        {
+          "id": 1664,
+          "tag_type": "LocationTag",
+          "name": "new york, ny",
+          "display_name": "New York City",
+          "angellist_url": "https://angel.co/new-york-ny-1"
+        },
+        {
+          "id": 14883,
+          "tag_type": "RoleTag",
+          "name": "designer",
+          "display_name": "Designer",
+          "angellist_url": "https://angel.co/designer"
+        }
+      ],
+      "startup": {
+        "id": 342778,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Diobox",
+        "angellist_url": "https://angel.co/diobox",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/342778-ab146c45f89a82d86f2d6ef2c186c8d1-medium_jpg.jpg?buster=1392353531",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/342778-ab146c45f89a82d86f2d6ef2c186c8d1-thumb_jpg.jpg?buster=1392353531",
+        "quality": 3,
+        "product_desc": "Diobox is a platform for hosting and managing events from start to finish, which simplifies the previously convoluted process of incorporating contacts, guest lists, invitations, RSVPs and the check-in process into a single holistic product with a beautiful and functional user interface.",
+        "high_concept": "Events and People Management",
+        "follower_count": 3,
+        "company_url": "http://www.diobox.com",
+        "created_at": "2014-02-14T04:52:18Z",
+        "updated_at": "2014-07-11T03:46:46Z"
+      }
+    },
+    {
+      "id": 32885,
+      "title": "Front-End Web Engineer",
+      "description": "This position is for an engineer who loves building web apps. It is not simply about building features, rather building the way those features are implemented. We care much about user experience which means you have to be able to create pixel-perfect apps with a lot of attention to detail – even if it means teaching yourself something new.\n\nResponsibilities \n- Developing frontend apps using javascript, JQuery, AngularJS, and similar javascript frameworks\n- Maintaining and refining the client-facing HTML, Javascript and CSS portions of the platform\n- Writing front-end automated tests to help with the QC process\n- Ability to think-through and develop positive user experiences\n- Ability to turn mockups and PSD files into interactive web modules\n- Working closely with the product team to extend and improve the functionality of the Diobox platform\n- Write semantic, modular, efficient code for creating lightweight/responsive apps\n- Collaborate with the rest of the world-class Web team to keep our code base clean and stable\n",
+      "created_at": "2014-07-12T14:49:40Z",
+      "updated_at": "2014-07-12T14:49:40Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "1.0",
+      "equity_vest": "2.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 80000,
+      "salary_max": 100000,
+      "angellist_url": "https://angel.co/jobs?startup_id=342778",
+      "tags": [
+        {
+          "id": 14781,
+          "tag_type": "SkillTag",
+          "name": "javascript",
+          "display_name": "Javascript",
+          "angellist_url": "https://angel.co/javascript"
+        },
+        {
+          "id": 15592,
+          "tag_type": "SkillTag",
+          "name": "html",
+          "display_name": "HTML",
+          "angellist_url": "https://angel.co/html"
+        },
+        {
+          "id": 15593,
+          "tag_type": "SkillTag",
+          "name": "css",
+          "display_name": "CSS",
+          "angellist_url": "https://angel.co/css"
+        },
+        {
+          "id": 15594,
+          "tag_type": "SkillTag",
+          "name": "jquery",
+          "display_name": "jQuery",
+          "angellist_url": "https://angel.co/jquery"
+        },
+        {
+          "id": 81410,
+          "tag_type": "SkillTag",
+          "name": "angular.js",
+          "display_name": "Angular.JS",
+          "angellist_url": "https://angel.co/angular-js"
+        },
+        {
+          "id": 1664,
+          "tag_type": "LocationTag",
+          "name": "new york, ny",
+          "display_name": "New York City",
+          "angellist_url": "https://angel.co/new-york-ny-1"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 342778,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Diobox",
+        "angellist_url": "https://angel.co/diobox",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/342778-ab146c45f89a82d86f2d6ef2c186c8d1-medium_jpg.jpg?buster=1392353531",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/342778-ab146c45f89a82d86f2d6ef2c186c8d1-thumb_jpg.jpg?buster=1392353531",
+        "quality": 3,
+        "product_desc": "Diobox is a platform for hosting and managing events from start to finish, which simplifies the previously convoluted process of incorporating contacts, guest lists, invitations, RSVPs and the check-in process into a single holistic product with a beautiful and functional user interface.",
+        "high_concept": "Events and People Management",
+        "follower_count": 3,
+        "company_url": "http://www.diobox.com",
+        "created_at": "2014-02-14T04:52:18Z",
+        "updated_at": "2014-07-11T03:46:46Z"
+      }
+    },
+    {
+      "id": 32884,
+      "title": "Blogger",
+      "description": "We are currently looking for part time writers who can contribute articles to the blog on a regular basis. This is a Freelance opportunity, so you can work from anywhere and can decide your own schedule. Go Write On!",
+      "created_at": "2014-07-12T14:30:48Z",
+      "updated_at": "2014-07-12T14:30:48Z",
+      "equity_cliff": "0.0",
+      "equity_min": null,
+      "equity_max": null,
+      "equity_vest": "0.0",
+      "currency_code": "INR",
+      "job_type": "internship",
+      "salary_min": null,
+      "salary_max": null,
+      "angellist_url": "https://angel.co/jobs?startup_id=436885",
+      "tags": [
+        {
+          "id": 15855,
+          "tag_type": "SkillTag",
+          "name": "blogging",
+          "display_name": "Blogging",
+          "angellist_url": "https://angel.co/blogging"
+        },
+        {
+          "id": 16711,
+          "tag_type": "SkillTag",
+          "name": "writing",
+          "display_name": "Writing",
+          "angellist_url": "https://angel.co/writing"
+        },
+        {
+          "id": 2203,
+          "tag_type": "LocationTag",
+          "name": "new delhi",
+          "display_name": "New Delhi",
+          "angellist_url": "https://angel.co/new-delhi"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 436885,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Old Cheese",
+        "angellist_url": "https://angel.co/old-cheese-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-medium_jpg.jpg?buster=1405170866",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-thumb_jpg.jpg?buster=1405170866",
+        "quality": 0,
+        "product_desc": "Event Management; CSR Activities; Corporate Journey, Filmed Content Production; Public Relations; Market Research; Brand Management; Direct Marketing & Experiential Media.",
+        "high_concept": "Communications | Entertainment | Media",
+        "follower_count": 1,
+        "company_url": "http://www.oldcheese.co",
+        "created_at": "2014-07-12T13:14:30Z",
+        "updated_at": "2014-07-12T13:38:03Z"
+      }
+    },
+    {
+      "id": 32883,
+      "title": "Marketing & Promotions Freelancer",
+      "description": "The job of a Marketing & Vendor Promotions Intern is to get people to the event. Be it a party at a A-Level nightclub in Delhi or a play at some auditorium. You need to understand the product/ service well and sell it to the general public. Having no skill required on this as such, we would recommend you to apply only if you're patient and have a good social network. The job is flexible. You're not working in an office and can work from anywhere at any given time of your convenience.",
+      "created_at": "2014-07-12T14:24:01Z",
+      "updated_at": "2014-07-12T14:30:02Z",
+      "equity_cliff": "0.0",
+      "equity_min": "0.0",
+      "equity_max": "0.0",
+      "equity_vest": "0.0",
+      "currency_code": "INR",
+      "job_type": "contract",
+      "salary_min": 2000,
+      "salary_max": 4000,
+      "angellist_url": "https://angel.co/jobs?startup_id=436885",
+      "tags": [
+        {
+          "id": 15852,
+          "tag_type": "SkillTag",
+          "name": "networking",
+          "display_name": "Networking",
+          "angellist_url": "https://angel.co/networking-1"
+        },
+        {
+          "id": 23989,
+          "tag_type": "SkillTag",
+          "name": "sales and marketing",
+          "display_name": "Sales and Marketing",
+          "angellist_url": "https://angel.co/sales-and-marketing-2"
+        },
+        {
+          "id": 75587,
+          "tag_type": "SkillTag",
+          "name": "promotional strategy",
+          "display_name": "Promotional Strategy",
+          "angellist_url": "https://angel.co/promotional-strategy"
+        },
+        {
+          "id": 2203,
+          "tag_type": "LocationTag",
+          "name": "new delhi",
+          "display_name": "New Delhi",
+          "angellist_url": "https://angel.co/new-delhi"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 436885,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Old Cheese",
+        "angellist_url": "https://angel.co/old-cheese-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-medium_jpg.jpg?buster=1405170866",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-thumb_jpg.jpg?buster=1405170866",
+        "quality": 0,
+        "product_desc": "Event Management; CSR Activities; Corporate Journey, Filmed Content Production; Public Relations; Market Research; Brand Management; Direct Marketing & Experiential Media.",
+        "high_concept": "Communications | Entertainment | Media",
+        "follower_count": 1,
+        "company_url": "http://www.oldcheese.co",
+        "created_at": "2014-07-12T13:14:30Z",
+        "updated_at": "2014-07-12T13:38:03Z"
+      }
+    },
+    {
+      "id": 32882,
+      "title": "Graphic Designer",
+      "description": "We cannot function without a graphic designing intern. They simply create magic with their hands. You'll be designing for our clients, for us and literally everything that Old Cheese can ever think of doing. You should have aced advanced level commands of MS Office, Adobe Creative Suite (predominantly Illustrator/ Photoshop/ Dreamweaver/ InDesign).The intern will focus on creative direction- from brainstorming ideas to developing visual communication elements that include:\n\n•Graphical execution of e-mail campaigns, newsletters, banner ads, posters, social media promotions, blog posts/news releases, flexes, print/digital brochures.\n•Continuous refinement of site/page templates, wire frames, navigation, storyboards and interactive elements.\n•Ensure work meets its deadlines; keep Coordinator and/or customer updated on status of job.",
+      "created_at": "2014-07-12T14:13:01Z",
+      "updated_at": "2014-07-12T14:19:41Z",
+      "equity_cliff": "0.0",
+      "equity_min": "0.0",
+      "equity_max": "0.0",
+      "equity_vest": "0.0",
+      "currency_code": "INR",
+      "job_type": "contract",
+      "salary_min": 4000,
+      "salary_max": 10000,
+      "angellist_url": "https://angel.co/jobs?startup_id=436885",
+      "tags": [
+        {
+          "id": 15520,
+          "tag_type": "SkillTag",
+          "name": "graphic design",
+          "display_name": "Graphic Design",
+          "angellist_url": "https://angel.co/graphic-design"
+        },
+        {
+          "id": 17284,
+          "tag_type": "SkillTag",
+          "name": "illustrator",
+          "display_name": "Illustrator",
+          "angellist_url": "https://angel.co/illustrator"
+        },
+        {
+          "id": 22690,
+          "tag_type": "SkillTag",
+          "name": "adobe creative suite",
+          "display_name": "Adobe Creative Suite",
+          "angellist_url": "https://angel.co/adobe-creative-suite"
+        },
+        {
+          "id": 38078,
+          "tag_type": "SkillTag",
+          "name": "adobe photoshop",
+          "display_name": "Adobe Photoshop",
+          "angellist_url": "https://angel.co/adobe-photoshop"
+        },
+        {
+          "id": 2203,
+          "tag_type": "LocationTag",
+          "name": "new delhi",
+          "display_name": "New Delhi",
+          "angellist_url": "https://angel.co/new-delhi"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 436885,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Old Cheese",
+        "angellist_url": "https://angel.co/old-cheese-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-medium_jpg.jpg?buster=1405170866",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-thumb_jpg.jpg?buster=1405170866",
+        "quality": 0,
+        "product_desc": "Event Management; CSR Activities; Corporate Journey, Filmed Content Production; Public Relations; Market Research; Brand Management; Direct Marketing & Experiential Media.",
+        "high_concept": "Communications | Entertainment | Media",
+        "follower_count": 1,
+        "company_url": "http://www.oldcheese.co",
+        "created_at": "2014-07-12T13:14:30Z",
+        "updated_at": "2014-07-12T13:38:03Z"
+      }
+    },
+    {
+      "id": 32881,
+      "title": "Social Media Intern",
+      "description": "A Social Media Intern at Old Cheese is one of the reasons people would love us. They help us be up there in the mosh with our competitors and ace it. You must have excellent analytic, strategic and communication skills. It'll be a great plus if you can write well. You should be able to work in fast paced environment on multiple tasks simultaneously and also as part of team but still be able to function independently. Here is the job description:\n\n•Managing and optimizing social media platforms, the website and any other relevant digital assets as well as respond and react to changes within social networks.\n\n•Understanding brand requirements and building their digital identity.\n•Be aware and updated on social, digital and marketing trends with a foresight to continuously adapt these to ongoing strategies",
+      "created_at": "2014-07-12T14:05:16Z",
+      "updated_at": "2014-07-12T14:10:15Z",
+      "equity_cliff": "0.0",
+      "equity_min": "0.0",
+      "equity_max": "0.0",
+      "equity_vest": "0.0",
+      "currency_code": "INR",
+      "job_type": "internship",
+      "salary_min": 0,
+      "salary_max": 0,
+      "angellist_url": "https://angel.co/jobs?startup_id=436885",
+      "tags": [
+        {
+          "id": 16277,
+          "tag_type": "SkillTag",
+          "name": "facebook advertising",
+          "display_name": "Facebook Advertising",
+          "angellist_url": "https://angel.co/facebook-advertising"
+        },
+        {
+          "id": 16577,
+          "tag_type": "SkillTag",
+          "name": "social strategy",
+          "display_name": "Social Strategy",
+          "angellist_url": "https://angel.co/social-strategy"
+        },
+        {
+          "id": 16692,
+          "tag_type": "SkillTag",
+          "name": "online marketing",
+          "display_name": "Online Marketing",
+          "angellist_url": "https://angel.co/online-marketing-1"
+        },
+        {
+          "id": 17587,
+          "tag_type": "SkillTag",
+          "name": "social media marketing",
+          "display_name": "Social Media Marketing",
+          "angellist_url": "https://angel.co/social-media-marketing-1"
+        },
+        {
+          "id": 81751,
+          "tag_type": "SkillTag",
+          "name": "twitter marketing",
+          "display_name": "Twitter Marketing",
+          "angellist_url": "https://angel.co/twitter-marketing"
+        },
+        {
+          "id": 85430,
+          "tag_type": "SkillTag",
+          "name": "linkedin marketing",
+          "display_name": "Linkedin Marketing",
+          "angellist_url": "https://angel.co/linkedin-marketing"
+        },
+        {
+          "id": 2203,
+          "tag_type": "LocationTag",
+          "name": "new delhi",
+          "display_name": "New Delhi",
+          "angellist_url": "https://angel.co/new-delhi"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 436885,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Old Cheese",
+        "angellist_url": "https://angel.co/old-cheese-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-medium_jpg.jpg?buster=1405170866",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-thumb_jpg.jpg?buster=1405170866",
+        "quality": 0,
+        "product_desc": "Event Management; CSR Activities; Corporate Journey, Filmed Content Production; Public Relations; Market Research; Brand Management; Direct Marketing & Experiential Media.",
+        "high_concept": "Communications | Entertainment | Media",
+        "follower_count": 1,
+        "company_url": "http://www.oldcheese.co",
+        "created_at": "2014-07-12T13:14:30Z",
+        "updated_at": "2014-07-12T13:38:03Z"
+      }
+    },
+    {
+      "id": 32880,
+      "title": "Sales & BD Executive",
+      "description": "A Sales & Business Development Executive is the most important person at Old Cheese. They help us create new businesses and generate new revenue streams. You need to be well equipped with skills in networking, time management and making presentations. You should be able to work in fast paced environment on multiple tasks simultaneously and also as part of team but still be able to function independently. This the summary of the profiles you will work on:\n\n•Prospect new potential businesses via various strategic initiatives such as cross-departmental collaboration with respect to marcom activities.\n•Availability for regular travel to client site.\n•Achievement of new-sales, including expansion sales (up-sell), revenue growth targets of portfolio in territory.\n•Negotiate and close contracts for new sales.",
+      "created_at": "2014-07-12T13:58:17Z",
+      "updated_at": "2014-07-12T14:19:21Z",
+      "equity_cliff": "0.0",
+      "equity_min": "0.0",
+      "equity_max": "0.0",
+      "equity_vest": "0.0",
+      "currency_code": "INR",
+      "job_type": "contract",
+      "salary_min": 4000,
+      "salary_max": 10000,
+      "angellist_url": "https://angel.co/jobs?startup_id=436885",
+      "tags": [
+        {
+          "id": 15525,
+          "tag_type": "SkillTag",
+          "name": "business development",
+          "display_name": "Business Development",
+          "angellist_url": "https://angel.co/business-development-1"
+        },
+        {
+          "id": 16928,
+          "tag_type": "SkillTag",
+          "name": "sales strategy and management",
+          "display_name": "Sales Strategy and Management",
+          "angellist_url": "https://angel.co/sales-strategy-and-management"
+        },
+        {
+          "id": 22820,
+          "tag_type": "SkillTag",
+          "name": "pitching",
+          "display_name": "Pitching",
+          "angellist_url": "https://angel.co/pitching"
+        },
+        {
+          "id": 23241,
+          "tag_type": "SkillTag",
+          "name": "ms office",
+          "display_name": "MS Office",
+          "angellist_url": "https://angel.co/ms-office"
+        },
+        {
+          "id": 2203,
+          "tag_type": "LocationTag",
+          "name": "new delhi",
+          "display_name": "New Delhi",
+          "angellist_url": "https://angel.co/new-delhi"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 436885,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Old Cheese",
+        "angellist_url": "https://angel.co/old-cheese-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-medium_jpg.jpg?buster=1405170866",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-thumb_jpg.jpg?buster=1405170866",
+        "quality": 0,
+        "product_desc": "Event Management; CSR Activities; Corporate Journey, Filmed Content Production; Public Relations; Market Research; Brand Management; Direct Marketing & Experiential Media.",
+        "high_concept": "Communications | Entertainment | Media",
+        "follower_count": 1,
+        "company_url": "http://www.oldcheese.co",
+        "created_at": "2014-07-12T13:14:30Z",
+        "updated_at": "2014-07-12T13:38:03Z"
+      }
+    },
+    {
+      "id": 32879,
+      "title": "Business Research Intern",
+      "description": "A Business Research Intern is a critical member at Old Cheese and plays a vital role in strengthening the roots of our business. You need to be well equipped with skills in making presentations and working with heavy data in excel. You should be able to work in fast paced environment on multiple tasks simultaneously and also as part of team but still be able to function independently. This the summary of the profiles you will work on:\n\n•Market intelligence, do SWOT analysis of competition.\n•Conduct primary research with end users and technology vendors.\n•Conduct secondary research for published reports using industry sources, including competitive assessment and third-party data analysis.\n•Track market trends, identify threats and opportunities and recommend and implement strategies and plans to address them.\n•Share new updates in market to colleagues and supervisors.\n•Knowing the customer with regularly updated research models and case studies.",
+      "created_at": "2014-07-12T13:45:22Z",
+      "updated_at": "2014-07-12T13:56:36Z",
+      "equity_cliff": "0.0",
+      "equity_min": "0.0",
+      "equity_max": "0.0",
+      "equity_vest": "0.0",
+      "currency_code": "INR",
+      "job_type": "internship",
+      "salary_min": 0,
+      "salary_max": 0,
+      "angellist_url": "https://angel.co/jobs?startup_id=436885",
+      "tags": [
+        {
+          "id": 15608,
+          "tag_type": "SkillTag",
+          "name": "data mining",
+          "display_name": "Data Mining",
+          "angellist_url": "https://angel.co/data-mining-1"
+        },
+        {
+          "id": 15731,
+          "tag_type": "SkillTag",
+          "name": "data analysis",
+          "display_name": "Data Analysis",
+          "angellist_url": "https://angel.co/data-analysis"
+        },
+        {
+          "id": 17802,
+          "tag_type": "SkillTag",
+          "name": "market research",
+          "display_name": "Market Research",
+          "angellist_url": "https://angel.co/market-research-1"
+        },
+        {
+          "id": 24003,
+          "tag_type": "SkillTag",
+          "name": "project management",
+          "display_name": "Project Management",
+          "angellist_url": "https://angel.co/project-management-1"
+        },
+        {
+          "id": 29035,
+          "tag_type": "SkillTag",
+          "name": "team leadership",
+          "display_name": "Team Leadership",
+          "angellist_url": "https://angel.co/team-leadership"
+        },
+        {
+          "id": 2203,
+          "tag_type": "LocationTag",
+          "name": "new delhi",
+          "display_name": "New Delhi",
+          "angellist_url": "https://angel.co/new-delhi"
+        },
+        {
+          "id": 129175,
+          "tag_type": "RoleTag",
+          "name": "operations",
+          "display_name": "Operations",
+          "angellist_url": "https://angel.co/operations-1"
+        }
+      ],
+      "startup": {
+        "id": 436885,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Old Cheese",
+        "angellist_url": "https://angel.co/old-cheese-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-medium_jpg.jpg?buster=1405170866",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436885-f8a7c2383d5124bbcea5c1322782e194-thumb_jpg.jpg?buster=1405170866",
+        "quality": 0,
+        "product_desc": "Event Management; CSR Activities; Corporate Journey, Filmed Content Production; Public Relations; Market Research; Brand Management; Direct Marketing & Experiential Media.",
+        "high_concept": "Communications | Entertainment | Media",
+        "follower_count": 1,
+        "company_url": "http://www.oldcheese.co",
+        "created_at": "2014-07-12T13:14:30Z",
+        "updated_at": "2014-07-12T13:38:03Z"
+      }
+    },
+    {
+      "id": 32878,
+      "title": "Product Marketing",
+      "description": "",
+      "created_at": "2014-07-12T11:08:26Z",
+      "updated_at": "2014-07-12T11:08:26Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.05",
+      "equity_max": "0.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 15000,
+      "salary_max": 40000,
+      "angellist_url": "https://angel.co/jobs?startup_id=74754",
+      "tags": [
+        {
+          "id": 15514,
+          "tag_type": "SkillTag",
+          "name": "analytics & reporting",
+          "display_name": "Analytics & Reporting",
+          "angellist_url": "https://angel.co/analytics-reporting"
+        },
+        {
+          "id": 15731,
+          "tag_type": "SkillTag",
+          "name": "data analysis",
+          "display_name": "Data Analysis",
+          "angellist_url": "https://angel.co/data-analysis"
+        },
+        {
+          "id": 15878,
+          "tag_type": "SkillTag",
+          "name": "product marketing",
+          "display_name": "Product Marketing",
+          "angellist_url": "https://angel.co/product-marketing"
+        },
+        {
+          "id": 17587,
+          "tag_type": "SkillTag",
+          "name": "social media marketing",
+          "display_name": "Social Media Marketing",
+          "angellist_url": "https://angel.co/social-media-marketing-1"
+        },
+        {
+          "id": 55871,
+          "tag_type": "SkillTag",
+          "name": "marketing management",
+          "display_name": "Marketing Management",
+          "angellist_url": "https://angel.co/marketing-management"
+        },
+        {
+          "id": 22939,
+          "tag_type": "LocationTag",
+          "name": "mumbai",
+          "display_name": "Mumbai",
+          "angellist_url": "https://angel.co/mumbai"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 74754,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Instamojo",
+        "angellist_url": "https://angel.co/instamojo",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-medium_jpg.jpg?buster=1381766510",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-thumb_jpg.jpg?buster=1381766510",
+        "quality": 7,
+        "product_desc": "We help individuals & small businesses collect payments instantly with a link through SMS, email, social channels or through simply embedding on websites or blogs. \n\nHere's 3 basic reasons why people choose us over others:\n\n+ No technical integration required. \n+ Zero hassles. 30-seconds onboarding process to get started without any extra cost.\n+ Inbuilt e-commerce tools married with beautiful UI/UX to give you industry's best sales conversion.\n\nSo, we give you power-packed features to help you sell & collect payments for almost anything in a jiffy.",
+        "high_concept": "Democratizing payments for everyone.",
+        "follower_count": 325,
+        "company_url": "http://instamojo.com",
+        "created_at": "2012-03-07T22:03:14Z",
+        "updated_at": "2014-07-12T11:17:31Z"
+      }
+    },
+    {
+      "id": 32877,
+      "title": "Content Writer",
+      "description": "",
+      "created_at": "2014-07-12T10:54:32Z",
+      "updated_at": "2014-07-12T10:54:32Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.05",
+      "equity_max": "0.1",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 10000,
+      "salary_max": 20000,
+      "angellist_url": "https://angel.co/jobs?startup_id=74754",
+      "tags": [
+        {
+          "id": 15748,
+          "tag_type": "SkillTag",
+          "name": "distribution",
+          "display_name": "Distribution",
+          "angellist_url": "https://angel.co/distribution-1"
+        },
+        {
+          "id": 15854,
+          "tag_type": "SkillTag",
+          "name": "seo",
+          "display_name": "SEO",
+          "angellist_url": "https://angel.co/seo-1"
+        },
+        {
+          "id": 24112,
+          "tag_type": "SkillTag",
+          "name": "content strategy",
+          "display_name": "Content Strategy",
+          "angellist_url": "https://angel.co/content-strategy"
+        },
+        {
+          "id": 27166,
+          "tag_type": "SkillTag",
+          "name": "content marketing",
+          "display_name": "Content Marketing",
+          "angellist_url": "https://angel.co/content-marketing"
+        },
+        {
+          "id": 33354,
+          "tag_type": "SkillTag",
+          "name": "content creation",
+          "display_name": "Content Creation",
+          "angellist_url": "https://angel.co/content-creation"
+        },
+        {
+          "id": 22939,
+          "tag_type": "LocationTag",
+          "name": "mumbai",
+          "display_name": "Mumbai",
+          "angellist_url": "https://angel.co/mumbai"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 74754,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Instamojo",
+        "angellist_url": "https://angel.co/instamojo",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-medium_jpg.jpg?buster=1381766510",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-thumb_jpg.jpg?buster=1381766510",
+        "quality": 7,
+        "product_desc": "We help individuals & small businesses collect payments instantly with a link through SMS, email, social channels or through simply embedding on websites or blogs. \n\nHere's 3 basic reasons why people choose us over others:\n\n+ No technical integration required. \n+ Zero hassles. 30-seconds onboarding process to get started without any extra cost.\n+ Inbuilt e-commerce tools married with beautiful UI/UX to give you industry's best sales conversion.\n\nSo, we give you power-packed features to help you sell & collect payments for almost anything in a jiffy.",
+        "high_concept": "Democratizing payments for everyone.",
+        "follower_count": 325,
+        "company_url": "http://instamojo.com",
+        "created_at": "2012-03-07T22:03:14Z",
+        "updated_at": "2014-07-12T11:17:31Z"
+      }
+    },
+    {
+      "id": 32876,
+      "title": "Data Scientist",
+      "description": "",
+      "created_at": "2014-07-12T10:46:49Z",
+      "updated_at": "2014-07-12T10:46:49Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.05",
+      "equity_max": "0.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 15000,
+      "salary_max": 40000,
+      "angellist_url": "https://angel.co/jobs?startup_id=74754",
+      "tags": [
+        {
+          "id": 15608,
+          "tag_type": "SkillTag",
+          "name": "data mining",
+          "display_name": "Data Mining",
+          "angellist_url": "https://angel.co/data-mining-1"
+        },
+        {
+          "id": 15609,
+          "tag_type": "SkillTag",
+          "name": "machine learning",
+          "display_name": "Machine Learning",
+          "angellist_url": "https://angel.co/machine-learning-1"
+        },
+        {
+          "id": 15731,
+          "tag_type": "SkillTag",
+          "name": "data analysis",
+          "display_name": "Data Analysis",
+          "angellist_url": "https://angel.co/data-analysis"
+        },
+        {
+          "id": 16741,
+          "tag_type": "SkillTag",
+          "name": "statistics",
+          "display_name": "Statistics",
+          "angellist_url": "https://angel.co/statistics"
+        },
+        {
+          "id": 24952,
+          "tag_type": "SkillTag",
+          "name": "algorithms",
+          "display_name": "Algorithms",
+          "angellist_url": "https://angel.co/algorithms-1"
+        },
+        {
+          "id": 24953,
+          "tag_type": "SkillTag",
+          "name": "natural language processing",
+          "display_name": "Natural Language Processing",
+          "angellist_url": "https://angel.co/natural-language-processing-1"
+        },
+        {
+          "id": 22939,
+          "tag_type": "LocationTag",
+          "name": "mumbai",
+          "display_name": "Mumbai",
+          "angellist_url": "https://angel.co/mumbai"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 74754,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Instamojo",
+        "angellist_url": "https://angel.co/instamojo",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-medium_jpg.jpg?buster=1381766510",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-thumb_jpg.jpg?buster=1381766510",
+        "quality": 7,
+        "product_desc": "We help individuals & small businesses collect payments instantly with a link through SMS, email, social channels or through simply embedding on websites or blogs. \n\nHere's 3 basic reasons why people choose us over others:\n\n+ No technical integration required. \n+ Zero hassles. 30-seconds onboarding process to get started without any extra cost.\n+ Inbuilt e-commerce tools married with beautiful UI/UX to give you industry's best sales conversion.\n\nSo, we give you power-packed features to help you sell & collect payments for almost anything in a jiffy.",
+        "high_concept": "Democratizing payments for everyone.",
+        "follower_count": 325,
+        "company_url": "http://instamojo.com",
+        "created_at": "2012-03-07T22:03:14Z",
+        "updated_at": "2014-07-12T11:17:31Z"
+      }
+    },
+    {
+      "id": 32875,
+      "title": "Product Manager",
+      "description": "",
+      "created_at": "2014-07-12T10:37:27Z",
+      "updated_at": "2014-07-12T10:37:27Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.05",
+      "equity_max": "0.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 15000,
+      "salary_max": 40000,
+      "angellist_url": "https://angel.co/jobs?startup_id=74754",
+      "tags": [
+        {
+          "id": 15731,
+          "tag_type": "SkillTag",
+          "name": "data analysis",
+          "display_name": "Data Analysis",
+          "angellist_url": "https://angel.co/data-analysis"
+        },
+        {
+          "id": 18317,
+          "tag_type": "SkillTag",
+          "name": "product development",
+          "display_name": "Product Development",
+          "angellist_url": "https://angel.co/product-development"
+        },
+        {
+          "id": 31349,
+          "tag_type": "SkillTag",
+          "name": "web analytics",
+          "display_name": "Web Analytics",
+          "angellist_url": "https://angel.co/web-analytics"
+        },
+        {
+          "id": 22939,
+          "tag_type": "LocationTag",
+          "name": "mumbai",
+          "display_name": "Mumbai",
+          "angellist_url": "https://angel.co/mumbai"
+        },
+        {
+          "id": 80487,
+          "tag_type": "RoleTag",
+          "name": "product_manager",
+          "display_name": "Product Manager",
+          "angellist_url": "https://angel.co/product_manager"
+        }
+      ],
+      "startup": {
+        "id": 74754,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Instamojo",
+        "angellist_url": "https://angel.co/instamojo",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-medium_jpg.jpg?buster=1381766510",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-thumb_jpg.jpg?buster=1381766510",
+        "quality": 7,
+        "product_desc": "We help individuals & small businesses collect payments instantly with a link through SMS, email, social channels or through simply embedding on websites or blogs. \n\nHere's 3 basic reasons why people choose us over others:\n\n+ No technical integration required. \n+ Zero hassles. 30-seconds onboarding process to get started without any extra cost.\n+ Inbuilt e-commerce tools married with beautiful UI/UX to give you industry's best sales conversion.\n\nSo, we give you power-packed features to help you sell & collect payments for almost anything in a jiffy.",
+        "high_concept": "Democratizing payments for everyone.",
+        "follower_count": 325,
+        "company_url": "http://instamojo.com",
+        "created_at": "2012-03-07T22:03:14Z",
+        "updated_at": "2014-07-12T11:17:31Z"
+      }
+    },
+    {
+      "id": 32874,
+      "title": "Product Designer",
+      "description": "",
+      "created_at": "2014-07-12T10:32:02Z",
+      "updated_at": "2014-07-12T10:32:02Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.1",
+      "equity_max": "0.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 15000,
+      "salary_max": 30000,
+      "angellist_url": "https://angel.co/jobs?startup_id=74754",
+      "tags": [
+        {
+          "id": 14781,
+          "tag_type": "SkillTag",
+          "name": "javascript",
+          "display_name": "Javascript",
+          "angellist_url": "https://angel.co/javascript"
+        },
+        {
+          "id": 15537,
+          "tag_type": "SkillTag",
+          "name": "user experience design",
+          "display_name": "User Experience Design",
+          "angellist_url": "https://angel.co/user-experience-design-1"
+        },
+        {
+          "id": 15706,
+          "tag_type": "SkillTag",
+          "name": "photoshop",
+          "display_name": "Photoshop",
+          "angellist_url": "https://angel.co/photoshop"
+        },
+        {
+          "id": 19659,
+          "tag_type": "SkillTag",
+          "name": "visual design",
+          "display_name": "Visual Design",
+          "angellist_url": "https://angel.co/visual-design"
+        },
+        {
+          "id": 23742,
+          "tag_type": "SkillTag",
+          "name": "ui/ux design",
+          "display_name": "UI/UX Design",
+          "angellist_url": "https://angel.co/ui-ux-design-1"
+        },
+        {
+          "id": 80376,
+          "tag_type": "SkillTag",
+          "name": "html5 & css3",
+          "display_name": "HTML5 & CSS3",
+          "angellist_url": "https://angel.co/html5-css3"
+        },
+        {
+          "id": 22939,
+          "tag_type": "LocationTag",
+          "name": "mumbai",
+          "display_name": "Mumbai",
+          "angellist_url": "https://angel.co/mumbai"
+        },
+        {
+          "id": 14883,
+          "tag_type": "RoleTag",
+          "name": "designer",
+          "display_name": "Designer",
+          "angellist_url": "https://angel.co/designer"
+        }
+      ],
+      "startup": {
+        "id": 74754,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Instamojo",
+        "angellist_url": "https://angel.co/instamojo",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-medium_jpg.jpg?buster=1381766510",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/74754-25c89bc8083780838916c9fbc5d2d4a5-thumb_jpg.jpg?buster=1381766510",
+        "quality": 7,
+        "product_desc": "We help individuals & small businesses collect payments instantly with a link through SMS, email, social channels or through simply embedding on websites or blogs. \n\nHere's 3 basic reasons why people choose us over others:\n\n+ No technical integration required. \n+ Zero hassles. 30-seconds onboarding process to get started without any extra cost.\n+ Inbuilt e-commerce tools married with beautiful UI/UX to give you industry's best sales conversion.\n\nSo, we give you power-packed features to help you sell & collect payments for almost anything in a jiffy.",
+        "high_concept": "Democratizing payments for everyone.",
+        "follower_count": 325,
+        "company_url": "http://instamojo.com",
+        "created_at": "2012-03-07T22:03:14Z",
+        "updated_at": "2014-07-12T11:17:31Z"
+      }
+    },
+    {
+      "id": 32873,
+      "title": "Chief Marketing Officer",
+      "description": "goCatch is Australia's leading smartphone app based taxi booking and payments platform. With $4.5M in funding secured to date including some of Australia's top VC firms, over 38,000 completed journeys a month, and over 5,500 unique engaged drivers a quarter, goCatch is in prime position to dominate the Australian taxi market.\n\nJoin a team of fellow A players to build Australia's next big startup success story. \n\nAs Chief Marketing Officer you'll have overarching responsibilities for steering and executing goCatch's marketing strategy. You will oversee an annual marketing budget in excess of AUD$1M a year and will be part of building a brand which will become synonymous in Australia for taxis you can count on.\n\nYou'll be based in Sydney, Australia, consistently ranked as one of the top 10 most liveable cities in the world. With beautiful beaches, a spectacular harbour, and plenty of clear blue sky days.\n\nThis role is for someone who has a proven track record at the most senior levels for effectively executing a successful marketing strategy. You'll have worked in a consumer facing online/mobile business and have taken a company through the growth phase through to an exit.\n\nSound like the right role for you? Please send through your CV and cover letter and we'll get in touch!",
+      "created_at": "2014-07-12T07:41:16Z",
+      "updated_at": "2014-07-12T07:55:14Z",
+      "equity_cliff": "1.0",
+      "equity_min": "1.0",
+      "equity_max": "2.0",
+      "equity_vest": "2.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 50000,
+      "salary_max": 120000,
+      "angellist_url": "https://angel.co/jobs?startup_id=66368",
+      "tags": [
+        {
+          "id": 14767,
+          "tag_type": "SkillTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-1"
+        },
+        {
+          "id": 15878,
+          "tag_type": "SkillTag",
+          "name": "product marketing",
+          "display_name": "Product Marketing",
+          "angellist_url": "https://angel.co/product-marketing"
+        },
+        {
+          "id": 17587,
+          "tag_type": "SkillTag",
+          "name": "social media marketing",
+          "display_name": "Social Media Marketing",
+          "angellist_url": "https://angel.co/social-media-marketing-1"
+        },
+        {
+          "id": 27580,
+          "tag_type": "SkillTag",
+          "name": "digital marketing",
+          "display_name": "Digital Marketing",
+          "angellist_url": "https://angel.co/digital-marketing"
+        },
+        {
+          "id": 31058,
+          "tag_type": "SkillTag",
+          "name": "digital strategy",
+          "display_name": "Digital Strategy",
+          "angellist_url": "https://angel.co/digital-strategy"
+        },
+        {
+          "id": 55871,
+          "tag_type": "SkillTag",
+          "name": "marketing management",
+          "display_name": "Marketing Management",
+          "angellist_url": "https://angel.co/marketing-management"
+        },
+        {
+          "id": 150988,
+          "tag_type": "LocationTag",
+          "name": "Sydney, Australia",
+          "display_name": "Sydney, Australia",
+          "angellist_url": "https://angel.co/sydney-australia-1"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 66368,
+        "hidden": false,
+        "community_profile": false,
+        "name": "goCatch",
+        "angellist_url": "https://angel.co/gocatch",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/66368-7ea3ed6867e82bbb6f00c99cfb1e3a8e-medium_jpg.jpg?buster=1405151404",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/66368-7ea3ed6867e82bbb6f00c99cfb1e3a8e-thumb_jpg.jpg?buster=1405151404",
+        "quality": 6,
+        "product_desc": null,
+        "high_concept": "Australia's leading smartphone based taxi bookings & payments platform",
+        "follower_count": 21,
+        "company_url": "http://www.gocatch.com",
+        "created_at": "2012-01-30T22:11:11Z",
+        "updated_at": "2014-07-12T07:50:08Z"
+      }
+    },
+    {
+      "id": 32872,
+      "title": "Inside Sales Rep",
+      "description": "ActivityHero.com is the #1 website for parents to find classes, activities and camps for their kids. Parents can register with one simple form.  \n\nWe are VC funded and growing quickly.  We have a proven sales model and are expanding our team of sales professionals.  Our sales reps contact businesses that offer classes and camps. ActivityHero's online registration and marketing services help these businesses reach more students, get paid, and save administrative time.\n\nYou will be responding to inbound leads and reaching out to kids' programs in San Francisco Bay Area and other major markets. We provide a previously unmet and valued service to our businesses which translates to a short sales cycle.\n\nJob Requirements:\n• Experience in inside sales\n• Strong presentation skills describing or demonstrating product in an in-person or online meeting (we’ll train you)\n• Highly-energetic, self-motivated, personable\n• Genuinely interested in your customers and their success\n• Organized and willing to maintain detailed contact records\n• Basic understanding about enrollment process for kids classes and camps\n• Available to work full-time (or min 30 hours per week) in our Mountain View Office\n\nJoin our team of heroes and help parents and small business owners inspire and teach more kids.  \n\nPlease apply here:  http://bit.ly/U69Nph",
+      "created_at": "2014-07-12T06:03:19Z",
+      "updated_at": "2014-07-12T06:44:54Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.1",
+      "equity_max": "0.25",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 50000,
+      "salary_max": 75000,
+      "angellist_url": "https://angel.co/jobs?startup_id=19119",
+      "tags": [
+        {
+          "id": 16278,
+          "tag_type": "SkillTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-1"
+        },
+        {
+          "id": 16529,
+          "tag_type": "SkillTag",
+          "name": "lead generation",
+          "display_name": "Lead Generation",
+          "angellist_url": "https://angel.co/lead-generation-1"
+        },
+        {
+          "id": 18215,
+          "tag_type": "SkillTag",
+          "name": "inside sales",
+          "display_name": "Inside Sales",
+          "angellist_url": "https://angel.co/inside-sales"
+        },
+        {
+          "id": 20995,
+          "tag_type": "SkillTag",
+          "name": "customer acquisition",
+          "display_name": "Customer Acquisition",
+          "angellist_url": "https://angel.co/customer-acquisition"
+        },
+        {
+          "id": 30039,
+          "tag_type": "SkillTag",
+          "name": "cold calling",
+          "display_name": "Cold Calling",
+          "angellist_url": "https://angel.co/cold-calling"
+        },
+        {
+          "id": 50505,
+          "tag_type": "SkillTag",
+          "name": "b2b sales",
+          "display_name": "B2B Sales",
+          "angellist_url": "https://angel.co/b2b-sales"
+        },
+        {
+          "id": 1701,
+          "tag_type": "LocationTag",
+          "name": "mountain view",
+          "display_name": "Mountain View",
+          "angellist_url": "https://angel.co/mountain-view-1"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 19119,
+        "hidden": false,
+        "community_profile": false,
+        "name": "ActivityHero",
+        "angellist_url": "https://angel.co/activityhero",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/19119-b2db7235a9f34834cf4006e8856a82fb-medium_jpg.jpg?buster=1360972882",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/19119-b2db7235a9f34834cf4006e8856a82fb-thumb_jpg.jpg?buster=1360972882",
+        "quality": 7,
+        "product_desc": "Parents spend $30 Bn/yr on organized kids activities like after-school classes & summer camps. They also spend countless hours finding, planning, & coordinating these activities. \n\nCamp & class organizers are busy running their kids' programs. They have outdated websites, few new students and no time to spare. \n\nActivityHero is a one-stop shop for parents to search, plan & book kids’ activities. ActivityHero also provides all-in-one \nmarketing, registration and CRM platform to activity providers.",
+        "high_concept": "One-stop shop to find and book activities",
+        "follower_count": 227,
+        "company_url": "http://www.activityhero.com",
+        "created_at": "2011-05-27T00:23:12Z",
+        "updated_at": "2014-07-12T06:42:49Z"
+      }
+    },
+    {
+      "id": 32871,
+      "title": "Sales Manager",
+      "description": "Cultivate relationships with new potential value-added resellers.\nMaintain relationships with existing value-added resellers.",
+      "created_at": "2014-07-12T03:06:57Z",
+      "updated_at": "2014-07-12T03:07:22Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.5",
+      "equity_max": "1.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 45000,
+      "salary_max": 75000,
+      "angellist_url": "https://angel.co/jobs?startup_id=434767",
+      "tags": [
+        {
+          "id": 15525,
+          "tag_type": "SkillTag",
+          "name": "business development",
+          "display_name": "Business Development",
+          "angellist_url": "https://angel.co/business-development-1"
+        },
+        {
+          "id": 23989,
+          "tag_type": "SkillTag",
+          "name": "sales and marketing",
+          "display_name": "Sales and Marketing",
+          "angellist_url": "https://angel.co/sales-and-marketing-2"
+        },
+        {
+          "id": 2140,
+          "tag_type": "LocationTag",
+          "name": "memphis",
+          "display_name": "Memphis",
+          "angellist_url": "https://angel.co/memphis"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 434767,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Well Done",
+        "angellist_url": "https://angel.co/well-done-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/434767-ac91be6ac612d22b97394ed0473377ff-medium_jpg.jpg?buster=1404935537",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/434767-ac91be6ac612d22b97394ed0473377ff-thumb_jpg.jpg?buster=1404935537",
+        "quality": 4,
+        "product_desc": "Well Done provides a cash register/point-of-sale(POS) software program for independently-owned restaurants. Our software runs on any Windows 8 device, is primarily cloud-based, and is sold and supported through a network of value-added resellers. ",
+        "high_concept": "Point of sale for restaurants",
+        "follower_count": 3,
+        "company_url": "http://www.welldonepos.co",
+        "created_at": "2014-07-09T14:46:44Z",
+        "updated_at": "2014-07-12T03:05:19Z"
+      }
+    },
+    {
+      "id": 32870,
+      "title": "Support Engineer",
+      "description": "This person will support our network of value-added resellers, as well as perform QA testing on new builds and develop documentation.",
+      "created_at": "2014-07-12T03:04:07Z",
+      "updated_at": "2014-07-12T03:04:07Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.5",
+      "equity_max": "1.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 45000,
+      "salary_max": 55000,
+      "angellist_url": "https://angel.co/jobs?startup_id=434767",
+      "tags": [
+        {
+          "id": 2140,
+          "tag_type": "LocationTag",
+          "name": "memphis",
+          "display_name": "Memphis",
+          "angellist_url": "https://angel.co/memphis"
+        },
+        {
+          "id": 80487,
+          "tag_type": "RoleTag",
+          "name": "product_manager",
+          "display_name": "Product Manager",
+          "angellist_url": "https://angel.co/product_manager"
+        }
+      ],
+      "startup": {
+        "id": 434767,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Well Done",
+        "angellist_url": "https://angel.co/well-done-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/434767-ac91be6ac612d22b97394ed0473377ff-medium_jpg.jpg?buster=1404935537",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/434767-ac91be6ac612d22b97394ed0473377ff-thumb_jpg.jpg?buster=1404935537",
+        "quality": 4,
+        "product_desc": "Well Done provides a cash register/point-of-sale(POS) software program for independently-owned restaurants. Our software runs on any Windows 8 device, is primarily cloud-based, and is sold and supported through a network of value-added resellers. ",
+        "high_concept": "Point of sale for restaurants",
+        "follower_count": 3,
+        "company_url": "http://www.welldonepos.co",
+        "created_at": "2014-07-09T14:46:44Z",
+        "updated_at": "2014-07-12T03:05:19Z"
+      }
+    },
+    {
+      "id": 32869,
+      "title": "Lead Software Engineer",
+      "description": "Do more than code. Defy is looking for innovators and problem solvers who want to have an enormous impact on society and engineer beautiful applications that help solve America's largest and most ignored social problem.\n \nDefy is a social learning platform that helps formerly incarcerated men and women transform their lives and the lives of others.\n \nAt Defy, you will tackle world-changing challenges that have never been solved before, such as:\n**Designing a machine learning model that assesses student performance and optimizes their learning path\n**Building innovative ways for formerly incarcerated individuals to learn online\n**Reimagining ways for students and business executives to collaborate and connect online\n**Building technology that formerly incarcerated men and women can interact with like butter\n\nSkills\nRuby-on-Rails, python or other dynamic programming language\nMySQL, MongoDB,AWS, Redis\nGithub or similar software repository\nProficient working in a Linux environment\n\nYou should have depth and experience with some overlap of the above. We like generalists, but by no means require a unicorn. We prefer T-shaped expertise—with depth in one area and broad interest in developing other areas.\n\nThe most important characteristic we look for is that you’re able to figure out what should be done and get it done—this requires thoughtfulness with a bias towards taking action and assuming responsibility. This is absolutely crucial in a small startup team, and for this reason, we prefer that you already have demonstrated this experience working in a prior startup.\n\n\n Modeled off of startup accelerators and incubators, Defy’s intensive 6-month program provides carefully selected, ambitious men and women with criminal histories entrepreneurship, leadership and employee development to help them become successful businessman, employers, parents and community leaders\n\n\n\n",
+      "created_at": "2014-07-12T02:43:04Z",
+      "updated_at": "2014-07-12T02:43:04Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.1",
+      "equity_max": "0.1",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 80000000,
+      "salary_max": 80000000,
+      "angellist_url": "https://angel.co/jobs?startup_id=269232",
+      "tags": [
+        {
+          "id": 14775,
+          "tag_type": "SkillTag",
+          "name": "python",
+          "display_name": "Python",
+          "angellist_url": "https://angel.co/python"
+        },
+        {
+          "id": 16309,
+          "tag_type": "SkillTag",
+          "name": "mysql",
+          "display_name": "MySQL",
+          "angellist_url": "https://angel.co/mysql-1"
+        },
+        {
+          "id": 18014,
+          "tag_type": "SkillTag",
+          "name": "apis",
+          "display_name": "APIs",
+          "angellist_url": "https://angel.co/apis"
+        },
+        {
+          "id": 21691,
+          "tag_type": "SkillTag",
+          "name": "redis",
+          "display_name": "Redis",
+          "angellist_url": "https://angel.co/redis"
+        },
+        {
+          "id": 27925,
+          "tag_type": "SkillTag",
+          "name": "linux system administration",
+          "display_name": "Linux System Administration",
+          "angellist_url": "https://angel.co/linux-system-administration"
+        },
+        {
+          "id": 80376,
+          "tag_type": "SkillTag",
+          "name": "html5 & css3",
+          "display_name": "HTML5 & CSS3",
+          "angellist_url": "https://angel.co/html5-css3"
+        },
+        {
+          "id": 82532,
+          "tag_type": "SkillTag",
+          "name": "ruby on rails",
+          "display_name": "Ruby on Rails",
+          "angellist_url": "https://angel.co/ruby-on-rails-1"
+        },
+        {
+          "id": 88318,
+          "tag_type": "SkillTag",
+          "name": "Git, MongoDB, Redis",
+          "display_name": "Git, Mongo Db, Redis",
+          "angellist_url": "https://angel.co/git-mongodb-redis"
+        },
+        {
+          "id": 1664,
+          "tag_type": "LocationTag",
+          "name": "new york, ny",
+          "display_name": "New York City",
+          "angellist_url": "https://angel.co/new-york-ny-1"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 269232,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Defy Ventures",
+        "angellist_url": "https://angel.co/defy-ventures",
+        "logo_url": "https://angel.co/images/shared/nopic_startup.png",
+        "thumb_url": "https://angel.co/images/shared/nopic_startup.png",
+        "quality": 3,
+        "product_desc": null,
+        "high_concept": null,
+        "follower_count": 6,
+        "company_url": null,
+        "created_at": "2013-09-24T13:21:13Z",
+        "updated_at": "2014-07-12T02:35:51Z"
+      }
+    },
+    {
+      "id": 32867,
+      "title": "cofounder/technologist",
+      "description": "I would love to join up with somebody who feels passionately about this market and has ideas about the product",
+      "created_at": "2014-07-12T01:08:06Z",
+      "updated_at": "2014-07-12T01:08:06Z",
+      "equity_cliff": "1.0",
+      "equity_min": "35.0",
+      "equity_max": "50.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "cofounder",
+      "salary_min": null,
+      "salary_max": null,
+      "angellist_url": "https://angel.co/jobs?startup_id=436658",
+      "tags": [
+        {
+          "id": 135438,
+          "tag_type": "SkillTag",
+          "name": "Intelligence",
+          "display_name": "Intelligence",
+          "angellist_url": "https://angel.co/intelligence-1"
+        },
+        {
+          "id": 1692,
+          "tag_type": "LocationTag",
+          "name": "san francisco",
+          "display_name": "San Francisco",
+          "angellist_url": "https://angel.co/san-francisco"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        },
+        {
+          "id": 14883,
+          "tag_type": "RoleTag",
+          "name": "designer",
+          "display_name": "Designer",
+          "angellist_url": "https://angel.co/designer"
+        },
+        {
+          "id": 80487,
+          "tag_type": "RoleTag",
+          "name": "product_manager",
+          "display_name": "Product Manager",
+          "angellist_url": "https://angel.co/product_manager"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 436658,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Chromebeat",
+        "angellist_url": "https://angel.co/chromebeat",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436658-78aa49669456f173c73f55d46f53e7a4-medium_jpg.jpg?buster=1405127142",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436658-78aa49669456f173c73f55d46f53e7a4-thumb_jpg.jpg?buster=1405127142",
+        "quality": 4,
+        "product_desc": "The go-to website for the latest on Chrome apps and javascript apps",
+        "high_concept": "ChromeOS / Chrome App portal",
+        "follower_count": 1,
+        "company_url": "http://chromebeat.com",
+        "created_at": "2014-07-12T01:02:58Z",
+        "updated_at": "2014-07-12T01:06:20Z"
+      }
+    },
+    {
+      "id": 32866,
+      "title": "Inside Sales Representative",
+      "description": "Looking for a motivated, energetic sales representative to help Zype tackle the growing online video market.\n\nExperience in media, SaaS, and cloud computing a big plus.\n\nOffice hours in convenient Manhattan location.\n",
+      "created_at": "2014-07-11T23:56:05Z",
+      "updated_at": "2014-07-11T23:56:05Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.025",
+      "equity_max": "0.15",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 40000,
+      "salary_max": 60000,
+      "angellist_url": "https://angel.co/jobs?startup_id=85252",
+      "tags": [
+        {
+          "id": 15668,
+          "tag_type": "SkillTag",
+          "name": "video",
+          "display_name": "Video",
+          "angellist_url": "https://angel.co/video-1"
+        },
+        {
+          "id": 16149,
+          "tag_type": "SkillTag",
+          "name": "saas",
+          "display_name": "SaaS",
+          "angellist_url": "https://angel.co/saas-1"
+        },
+        {
+          "id": 16278,
+          "tag_type": "SkillTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-1"
+        },
+        {
+          "id": 19304,
+          "tag_type": "SkillTag",
+          "name": "advertising",
+          "display_name": "Advertising",
+          "angellist_url": "https://angel.co/advertising-1"
+        },
+        {
+          "id": 131161,
+          "tag_type": "SkillTag",
+          "name": "SaaS Sales",
+          "display_name": "SaaS Sales",
+          "angellist_url": "https://angel.co/saas-sales"
+        },
+        {
+          "id": 1664,
+          "tag_type": "LocationTag",
+          "name": "new york, ny",
+          "display_name": "New York City",
+          "angellist_url": "https://angel.co/new-york-ny-1"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 85252,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Zype",
+        "angellist_url": "https://angel.co/zype",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/85252-b882647672f1b75ff43b6c7a689e8017-medium_jpg.jpg?buster=1398387012",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/85252-b882647672f1b75ff43b6c7a689e8017-thumb_jpg.jpg?buster=1398387012",
+        "quality": 5,
+        "product_desc": "/* See Zype in action at http://yugioh.com */\n\nZype enables video publishers to own their audience and earn more revenue through video destinations and apps. \n\nOur platform includes command line tools, APIs and dashboards that speeds time to market and creates immersive video experiences. \n\nZype allows content owners to leverage multiple video sources including Hulu, YouTube, traditional OVPs in addition to our own delivery network.  Smart business rules allow dynamic players to be optimized based on viewer location, device, licensing rules or revenue.  Our VideoMeta technology reduces time to market and creates search and social marketing footprints to increase reach.\n\nOur technology has been developed by a team with deep experience in building and managing highly scalable cloud platforms.",
+        "high_concept": "The Next Generation Platform for Premium Video.",
+        "follower_count": 28,
+        "company_url": "http://www.zype.com",
+        "created_at": "2012-04-23T21:47:48Z",
+        "updated_at": "2014-07-09T15:34:55Z"
+      }
+    },
+    {
+      "id": 32864,
+      "title": "QA Tester",
+      "description": "",
+      "created_at": "2014-07-11T23:27:36Z",
+      "updated_at": "2014-07-11T23:49:27Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.016",
+      "equity_max": "0.016",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 35000,
+      "salary_max": 50000,
+      "angellist_url": "https://angel.co/jobs?startup_id=227686",
+      "tags": [
+        {
+          "id": 3143,
+          "tag_type": "LocationTag",
+          "name": "culver city",
+          "display_name": "Culver City",
+          "angellist_url": "https://angel.co/culver-city"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 227686,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Lootsie",
+        "angellist_url": "https://angel.co/lootsie",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/227686-fb3812dbf9e06dcf1847c093511a95dd-medium_jpg.jpg?buster=1396468926",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/227686-fb3812dbf9e06dcf1847c093511a95dd-thumb_jpg.jpg?buster=1396468926",
+        "quality": 7,
+        "product_desc": "We're launching the next evolution of mobile advertising.  We are creating a universal loyalty platform for mobile and beyond to increase engagement across our connected lives to reward us for our everyday actions.  We're creating a world where brands and consumers live in harmony - where marketing and targeting isn't creepy and value is something that is cherished and exchanged willingly.  ",
+        "high_concept": "Think  credit card \"Thank You Points\" but for apps",
+        "follower_count": 35,
+        "company_url": "http://www.lootsie.com",
+        "created_at": "2013-06-26T23:04:13Z",
+        "updated_at": "2014-06-02T19:00:19Z"
+      }
+    },
+    {
+      "id": 32863,
+      "title": "Software Engineer - Full Stack",
+      "description": "You can build apps with web technologies and accomplish everything that a native mobile app can do. You have the passion to design and develop web applications that work and appeal cross platform.  You know browser as well as backend web technology and can deliver a working app in little time. You are a team player eager to expand your skillset and master new technologies as needed.\n\nMust Have:\n•\tJava Script, jQuery, HTML/HTML5, CSS\n•\tFlask, Python, Django and/or Ruby\n\nPreferred Skills:\n•\tKnowledge of building cross platform/cross browser web applications\n•\tSecure web client to server communication, SSL/HTTPS\n•\tKnowledge working with Google App Engine, AWS or Heroku\n•\tBachelors Degree in Computer Science or Equivalent\n•\tMinimum 2 years of hands on experience (includes relevant internships)",
+      "created_at": "2014-07-11T23:17:18Z",
+      "updated_at": "2014-07-11T23:17:18Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.1",
+      "equity_max": "1.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 75000,
+      "salary_max": 100000,
+      "angellist_url": "https://angel.co/jobs?startup_id=132175",
+      "tags": [
+        {
+          "id": 14775,
+          "tag_type": "SkillTag",
+          "name": "python",
+          "display_name": "Python",
+          "angellist_url": "https://angel.co/python"
+        },
+        {
+          "id": 14781,
+          "tag_type": "SkillTag",
+          "name": "javascript",
+          "display_name": "Javascript",
+          "angellist_url": "https://angel.co/javascript"
+        },
+        {
+          "id": 15592,
+          "tag_type": "SkillTag",
+          "name": "html",
+          "display_name": "HTML",
+          "angellist_url": "https://angel.co/html"
+        },
+        {
+          "id": 15593,
+          "tag_type": "SkillTag",
+          "name": "css",
+          "display_name": "CSS",
+          "angellist_url": "https://angel.co/css"
+        },
+        {
+          "id": 15594,
+          "tag_type": "SkillTag",
+          "name": "jquery",
+          "display_name": "jQuery",
+          "angellist_url": "https://angel.co/jquery"
+        },
+        {
+          "id": 16135,
+          "tag_type": "SkillTag",
+          "name": "django",
+          "display_name": "Django",
+          "angellist_url": "https://angel.co/django"
+        },
+        {
+          "id": 17184,
+          "tag_type": "SkillTag",
+          "name": "ruby",
+          "display_name": "Ruby",
+          "angellist_url": "https://angel.co/ruby"
+        },
+        {
+          "id": 21251,
+          "tag_type": "SkillTag",
+          "name": "java script",
+          "display_name": "JAVA SCRIPT",
+          "angellist_url": "https://angel.co/java-script"
+        },
+        {
+          "id": 23973,
+          "tag_type": "SkillTag",
+          "name": "aws",
+          "display_name": "AWS",
+          "angellist_url": "https://angel.co/aws-1"
+        },
+        {
+          "id": 29704,
+          "tag_type": "SkillTag",
+          "name": "web application development",
+          "display_name": "Web Application Development",
+          "angellist_url": "https://angel.co/web-application-development"
+        },
+        {
+          "id": 31348,
+          "tag_type": "SkillTag",
+          "name": "mobile web",
+          "display_name": "Mobile Web",
+          "angellist_url": "https://angel.co/mobile-web"
+        },
+        {
+          "id": 32961,
+          "tag_type": "SkillTag",
+          "name": "web applications",
+          "display_name": "Web Applications",
+          "angellist_url": "https://angel.co/web-applications"
+        },
+        {
+          "id": 35290,
+          "tag_type": "SkillTag",
+          "name": "google app engine",
+          "display_name": "Google App Engine",
+          "angellist_url": "https://angel.co/google-app-engine"
+        },
+        {
+          "id": 44531,
+          "tag_type": "SkillTag",
+          "name": "heroku",
+          "display_name": "Heroku",
+          "angellist_url": "https://angel.co/heroku-1"
+        },
+        {
+          "id": 78682,
+          "tag_type": "SkillTag",
+          "name": "html/css/php/mysql",
+          "display_name": "HTML/CSS/PHP/MYSQL",
+          "angellist_url": "https://angel.co/html-css-php-mysql"
+        },
+        {
+          "id": 80376,
+          "tag_type": "SkillTag",
+          "name": "html5 & css3",
+          "display_name": "HTML5 & CSS3",
+          "angellist_url": "https://angel.co/html5-css3"
+        },
+        {
+          "id": 82532,
+          "tag_type": "SkillTag",
+          "name": "ruby on rails",
+          "display_name": "Ruby on Rails",
+          "angellist_url": "https://angel.co/ruby-on-rails-1"
+        },
+        {
+          "id": 1693,
+          "tag_type": "LocationTag",
+          "name": "san jose",
+          "display_name": "San Jose",
+          "angellist_url": "https://angel.co/san-jose"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 132175,
+        "hidden": false,
+        "community_profile": false,
+        "name": "hiku",
+        "angellist_url": "https://angel.co/hiku",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/132175-f8b3c7e3b2d0c148ca2fab756235e0c1-medium_jpg.jpg?buster=1352336810",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/132175-f8b3c7e3b2d0c148ca2fab756235e0c1-thumb_jpg.jpg?buster=1352336810",
+        "quality": 7,
+        "product_desc": "hiku remembers for you, and shops for you. \n\nConsumers use hiku to scan or speak items into their shopping list. It's so easy a five-year old can do it. When you walk in the store, your list is always with you via the hiku mobile app. So you remember what you need.\n\nhiku also shops for you by finding items in your list for sale online, and allowing you to purchase them right from your phone. Highly contextual commerce.",
+        "high_concept": "Kindle for consumer packaged goods",
+        "follower_count": 101,
+        "company_url": "http://www.hiku.us",
+        "created_at": "2012-10-25T17:55:12Z",
+        "updated_at": "2014-07-11T19:48:02Z"
+      }
+    },
+    {
+      "id": 32862,
+      "title": "Marketing Specialist",
+      "description": "Looking for a bright marketing specialist to work on a cutting edge geo-targeted marketing campaign. Candidate should be a creative and articulate individual with prior marketing experience. \n\nSpecific responsibilities\n1. Drive sign-up's on entreda's website\n2. Maintain marketing calendar\n3. Write compelling blog posts\n4. Organize webinar's\n5. Email newsletters and customer outreach\n...",
+      "created_at": "2014-07-11T23:15:29Z",
+      "updated_at": "2014-07-11T23:15:29Z",
+      "equity_cliff": "1.0",
+      "equity_min": null,
+      "equity_max": null,
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "contract",
+      "salary_min": 36000,
+      "salary_max": 48000,
+      "angellist_url": "https://angel.co/jobs?startup_id=436481",
+      "tags": [
+        {
+          "id": 38078,
+          "tag_type": "SkillTag",
+          "name": "adobe photoshop",
+          "display_name": "Adobe Photoshop",
+          "angellist_url": "https://angel.co/adobe-photoshop"
+        },
+        {
+          "id": 38079,
+          "tag_type": "SkillTag",
+          "name": "adobe illustrator",
+          "display_name": "Adobe Illustrator",
+          "angellist_url": "https://angel.co/adobe-illustrator"
+        },
+        {
+          "id": 116556,
+          "tag_type": "SkillTag",
+          "name": "CMS, Drupal, webtechnologies",
+          "display_name": "CMS, Drupal, webtechnologies",
+          "angellist_url": "https://angel.co/cms-drupal-webtechnologies"
+        },
+        {
+          "id": 1847,
+          "tag_type": "LocationTag",
+          "name": "san mateo",
+          "display_name": "San Mateo",
+          "angellist_url": "https://angel.co/san-mateo"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 436481,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Entreda",
+        "angellist_url": "https://angel.co/entreda",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436481-4a212df040ec111ae5db265397d9fa23-medium_jpg.jpg?buster=1405104569",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436481-4a212df040ec111ae5db265397d9fa23-thumb_jpg.jpg?buster=1405104569",
+        "quality": 3,
+        "product_desc": "The Unify Cloud platform lets you manage users, devices, networks, apps (on-premise or cloud), data all in one place. Simple to use and access from anywhere, anytime. \n\nThat's Big Enterprise IT made simple for small businesses in the age of Cloud and BYOD....",
+        "high_concept": "What Netflix does for movies, we do for IT apps for small businesses",
+        "follower_count": 1,
+        "company_url": "http://www.entreda.com",
+        "created_at": "2014-07-11T18:49:34Z",
+        "updated_at": "2014-07-11T23:16:59Z"
+      }
+    },
+    {
+      "id": 32861,
+      "title": "Lead Software Developer",
+      "description": "As a Lead Software Developer, you will be considered a rock star at our company. You will play a pivotal role in developing our cloud based media data engine while guiding junior team members to success. Day to day activities will include architecting/writing/reviewing code, mentoring and communicating with key customers/vendors.\n\nMinimum requirements:\n• Bachelor's Degree\n• Computer Science or related major\n• 5+ years professional coding experience\n• Experience in at least one of the following areas: HTML5 web applications, RESTful API development, workflow/queuing software, automated testing/build tools, video/audio encoding, and Automated Speech Recognition (ASR)\n• Exceptional interpersonal and communication skills, with a strong attention to detail\n• A unique and much desired \"just get things done\" mentality\n• Leadership oriented person who wants to be a part of a fast growing company\n\nBonus points for experience with:\n• Release management\n• Leading small teams of developers\n• QA management\n• Knowledge of Python or JavaScript\n\nAbout The Company Hiring:\ncielo24 is a technology startup located in downtown Santa Barbara. We provide searchable captions and subtitles to clients in the online education, enterprise and entertainment industries. We have an experienced team of developers and business professionals working to help make online media accessible and searchable to markets in need of a fast, accurate and low cost transcription solution.",
+      "created_at": "2014-07-11T22:47:41Z",
+      "updated_at": "2014-07-11T22:50:53Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.02",
+      "equity_max": "0.07",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 75000,
+      "salary_max": 120000,
+      "angellist_url": "https://angel.co/jobs?startup_id=155108",
+      "tags": [
+        {
+          "id": 14775,
+          "tag_type": "SkillTag",
+          "name": "python",
+          "display_name": "Python",
+          "angellist_url": "https://angel.co/python"
+        },
+        {
+          "id": 14781,
+          "tag_type": "SkillTag",
+          "name": "javascript",
+          "display_name": "Javascript",
+          "angellist_url": "https://angel.co/javascript"
+        },
+        {
+          "id": 18014,
+          "tag_type": "SkillTag",
+          "name": "apis",
+          "display_name": "APIs",
+          "angellist_url": "https://angel.co/apis"
+        },
+        {
+          "id": 80220,
+          "tag_type": "SkillTag",
+          "name": "full-stack web development",
+          "display_name": "Full-Stack Web Development",
+          "angellist_url": "https://angel.co/full-stack-web-development"
+        },
+        {
+          "id": 1808,
+          "tag_type": "LocationTag",
+          "name": "santa barbara",
+          "display_name": "Santa Barbara",
+          "angellist_url": "https://angel.co/santa-barbara"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 155108,
+        "hidden": false,
+        "community_profile": false,
+        "name": "cielo24",
+        "angellist_url": "https://angel.co/cielo24",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/155108-19a2e868fec71498a9364dc044632700-medium_jpg.jpg?buster=1357890184",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/155108-19a2e868fec71498a9364dc044632700-thumb_jpg.jpg?buster=1357890184",
+        "quality": 5,
+        "product_desc": "cielo24 delivers searchable captions as an on demand web service for large media partners in the online education, enterprise, and entertainment markets.\n\nwe have provided searchable meta data for 10K's of videos for market leaders like coursera, lynda.com and more than 100 organizations.\n\nour scalable media refinery creates high quality, searchable meta data from unstructured media including indexes, transcripts, captions and subtitles.\n\nour hybrid platform leverages automation and large public and private crowds for 99%+ accuracy.\n\nour focus is professional internet media delivering content accessibility and ROI by extending reach, content discovery and ADA compliance.",
+        "high_concept": "searchable captions for online media",
+        "follower_count": 65,
+        "company_url": "http://www.cielo24.com",
+        "created_at": "2013-01-11T07:43:07Z",
+        "updated_at": "2014-07-11T22:26:59Z"
+      }
+    },
+    {
+      "id": 32860,
+      "title": "Software Engineer I",
+      "description": "Ground 2 Table is a stealth-mode startup looking to expand our development team. Our mission\n\nis to contribute positively towards sustainable living by transforming food consumption patterns.\n\nWe are searching for professional, motivated, self-learners passionate about sustainability and \n\nhacking on open-source technologies!\n\nOur project pipeline presents the opportunity to work on, with, or build:\n\n● Django-based platforms for CMS and Ecommerce.\n\n● Web scraping systems utilizing the Scrapy framework.\n\n● A/B Testing implementation.\n\n● Dashboarding, including the development of Key Performance Indicator (KPI) \n\nidentification and tracking system(s).\n\n● Integrations with third party vendors and the design/maintenance of RESTful APIs used \n\nfor internal and external consumption.\n\nResponsibilities\n\n● Work with Software Engineers to maintain and improve current infrastructure.\n\n● Provide operations support for our stack to the customer support, finance, and \n\noperations teams.\n\n● Bring new products to market using an Agile development methodology.\n\n● Brainstorm and take ownership of process and system improvements.\n\nEligibility Requirements\n\n● Bachelor’s degree in CS or related (or equivalent experience)\n\n● Frontend HTML/CSS and JavaScript/AJAX (jQuery, Prototype) (2+ years minimum)\n\n● SQL/MySQL, ORM (2+ years minimum)\n\n● Experience working with the MVC design pattern in backend development (Django \n\npreferred) (2+ years minimum)\n\nAdditional Desired Qualifications:\n\n● Python, Django (a plus)\n\n● Experience working with source control (Git)\n\n● Experience working in an Agile development team (a plus)",
+      "created_at": "2014-07-11T22:26:21Z",
+      "updated_at": "2014-07-11T22:26:21Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.1",
+      "equity_vest": "5.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 45000,
+      "salary_max": 60000,
+      "angellist_url": "https://angel.co/jobs?startup_id=435118",
+      "tags": [
+        {
+          "id": 1679,
+          "tag_type": "LocationTag",
+          "name": "san diego",
+          "display_name": "San Diego",
+          "angellist_url": "https://angel.co/san-diego"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 435118,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Ground 2 Table, Inc",
+        "angellist_url": "https://angel.co/ground-2-table-inc",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/435118-d5e47a2fdd3b8462a75c5202c7f8473e-medium_jpg.jpg?buster=1404941118",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/435118-d5e47a2fdd3b8462a75c5202c7f8473e-thumb_jpg.jpg?buster=1404941118",
+        "quality": 2,
+        "product_desc": "Ground 2 Table (G2T) lets you take control of your cooking experience with a revolutionary recipe and ingredient matching model. With sustainability at the core of its mission, G2T will expand its users culinary universe with education, social networking and a killer product.",
+        "high_concept": "A pinch of tech, a splash of organics and a dash of sustainability",
+        "follower_count": 1,
+        "company_url": "http://www.g2t.com",
+        "created_at": "2014-07-09T21:23:39Z",
+        "updated_at": "2014-07-11T17:28:24Z"
+      }
+    },
+    {
+      "id": 32858,
+      "title": "Software Engineer ",
+      "description": "",
+      "created_at": "2014-07-11T21:50:28Z",
+      "updated_at": "2014-07-11T21:50:28Z",
+      "equity_cliff": "1.0",
+      "equity_min": "2.0",
+      "equity_max": "5.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 60000,
+      "salary_max": 100000,
+      "angellist_url": "https://angel.co/jobs?startup_id=436544",
+      "tags": [
+        {
+          "id": 14775,
+          "tag_type": "SkillTag",
+          "name": "python",
+          "display_name": "Python",
+          "angellist_url": "https://angel.co/python"
+        },
+        {
+          "id": 14781,
+          "tag_type": "SkillTag",
+          "name": "javascript",
+          "display_name": "Javascript",
+          "angellist_url": "https://angel.co/javascript"
+        },
+        {
+          "id": 23742,
+          "tag_type": "SkillTag",
+          "name": "ui/ux design",
+          "display_name": "UI/UX Design",
+          "angellist_url": "https://angel.co/ui-ux-design-1"
+        },
+        {
+          "id": 1674,
+          "tag_type": "LocationTag",
+          "name": "providence",
+          "display_name": "Providence",
+          "angellist_url": "https://angel.co/providence"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 436544,
+        "hidden": false,
+        "community_profile": false,
+        "name": "CitySide ",
+        "angellist_url": "https://angel.co/cityside",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436544-f4c3d4cd2ae99048833092f802b7bfa9-medium_jpg.jpg?buster=1405112643",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436544-f4c3d4cd2ae99048833092f802b7bfa9-thumb_jpg.jpg?buster=1405112643",
+        "quality": 3,
+        "product_desc": "CitySide aims to make the traditional car wash a thing of the past.  A clean car at the tap of button through our on demand services will disrupt an industry that is ripe for innovation.  We leverage our convenient services to busy work professionals(target market) in centralized locations (parking garages) because it is an amenity to the facilities we service and ultimately facilitates sales.   ",
+        "high_concept": "On demand car wash ",
+        "follower_count": 1,
+        "company_url": "http://getcityside.com",
+        "created_at": "2014-07-11T21:04:08Z",
+        "updated_at": "2014-07-11T22:02:43Z"
+      }
+    },
+    {
+      "id": 32857,
+      "title": "CTO co founder",
+      "description": "We are looking for an open minded and super skilled IT guy with deep knowledge and experience in JavaScript,CSS, MySql ,Python to help us fully polish our product.\n\nIf you want to be part of a new big think, just get in touch. We need a WEB development ninja more than air.\n\nWe are  in a seed level stage, ready for a fast growing and we need to perfectly prepare our beta.",
+      "created_at": "2014-07-11T21:40:25Z",
+      "updated_at": "2014-07-11T21:40:25Z",
+      "equity_cliff": "1.0",
+      "equity_min": "5.0",
+      "equity_max": "7.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 1000,
+      "salary_max": 2000,
+      "angellist_url": "https://angel.co/jobs?startup_id=398235",
+      "tags": [
+        {
+          "id": 14775,
+          "tag_type": "SkillTag",
+          "name": "python",
+          "display_name": "Python",
+          "angellist_url": "https://angel.co/python"
+        },
+        {
+          "id": 14781,
+          "tag_type": "SkillTag",
+          "name": "javascript",
+          "display_name": "Javascript",
+          "angellist_url": "https://angel.co/javascript"
+        },
+        {
+          "id": 15592,
+          "tag_type": "SkillTag",
+          "name": "html",
+          "display_name": "HTML",
+          "angellist_url": "https://angel.co/html"
+        },
+        {
+          "id": 15593,
+          "tag_type": "SkillTag",
+          "name": "css",
+          "display_name": "CSS",
+          "angellist_url": "https://angel.co/css"
+        },
+        {
+          "id": 15594,
+          "tag_type": "SkillTag",
+          "name": "jquery",
+          "display_name": "jQuery",
+          "angellist_url": "https://angel.co/jquery"
+        },
+        {
+          "id": 15671,
+          "tag_type": "SkillTag",
+          "name": "programming",
+          "display_name": "Programming",
+          "angellist_url": "https://angel.co/programming"
+        },
+        {
+          "id": 17236,
+          "tag_type": "SkillTag",
+          "name": "web development",
+          "display_name": "Web Development",
+          "angellist_url": "https://angel.co/web-development-2"
+        },
+        {
+          "id": 31349,
+          "tag_type": "SkillTag",
+          "name": "web analytics",
+          "display_name": "Web Analytics",
+          "angellist_url": "https://angel.co/web-analytics"
+        },
+        {
+          "id": 32588,
+          "tag_type": "SkillTag",
+          "name": "encryption",
+          "display_name": "Encryption",
+          "angellist_url": "https://angel.co/encryption"
+        },
+        {
+          "id": 72348,
+          "tag_type": "SkillTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer-1"
+        },
+        {
+          "id": 80220,
+          "tag_type": "SkillTag",
+          "name": "full-stack web development",
+          "display_name": "Full-Stack Web Development",
+          "angellist_url": "https://angel.co/full-stack-web-development"
+        },
+        {
+          "id": 80376,
+          "tag_type": "SkillTag",
+          "name": "html5 & css3",
+          "display_name": "HTML5 & CSS3",
+          "angellist_url": "https://angel.co/html5-css3"
+        },
+        {
+          "id": 90205,
+          "tag_type": "SkillTag",
+          "name": "webrtc",
+          "display_name": "WebRTC",
+          "angellist_url": "https://angel.co/webrtc"
+        },
+        {
+          "id": 114908,
+          "tag_type": "SkillTag",
+          "name": "python/django",
+          "display_name": "python/django",
+          "angellist_url": "https://angel.co/python-django-1"
+        },
+        {
+          "id": 1695,
+          "tag_type": "LocationTag",
+          "name": "london",
+          "display_name": "London",
+          "angellist_url": "https://angel.co/london"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 398235,
+        "hidden": false,
+        "community_profile": false,
+        "name": "EyeLoop",
+        "angellist_url": "https://angel.co/eyeloop",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/398235-27a2260d300b4aa3bbdfaa92bc02a31c-medium_jpg.jpg?buster=1400080246",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/398235-27a2260d300b4aa3bbdfaa92bc02a31c-thumb_jpg.jpg?buster=1400080246",
+        "quality": 3,
+        "product_desc": " EyeLoop is an online payments security service that use a real time face recognition protocol to approve or not an online payment.\n A face recognition hyper advanced like 3D secure code from VISA or MasterCode from Master Card.\n We imagined and designed EyeLoop in an attempt to develop an avant-garde yet simple and accessible technology that can provide users around the world with a piece of mind online payment security system. EyeLoop will set the rebirth of user confidence in online transactions and will be the cornerstone of online fraud prevention. Every fragment of EyeLoop  was built in order to better serve business and the end user at the same time, simply bring trust and confidence to us all.\n     This system has all necessary features to become a booming business for users around the globe.",
+        "high_concept": "Face recognition security for e-payments",
+        "follower_count": 15,
+        "company_url": "http://www.eyeloop.co",
+        "created_at": "2014-05-14T15:10:53Z",
+        "updated_at": "2014-07-11T21:44:37Z"
+      }
+    },
+    {
+      "id": 32856,
+      "title": "Python Engineer",
+      "description": "",
+      "created_at": "2014-07-11T21:22:36Z",
+      "updated_at": "2014-07-11T21:24:17Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.5",
+      "equity_max": "2.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 70000,
+      "salary_max": 100000,
+      "angellist_url": "https://angel.co/jobs?startup_id=377940",
+      "tags": [
+        {
+          "id": 14775,
+          "tag_type": "SkillTag",
+          "name": "python",
+          "display_name": "Python",
+          "angellist_url": "https://angel.co/python"
+        },
+        {
+          "id": 14780,
+          "tag_type": "SkillTag",
+          "name": "java",
+          "display_name": "Java",
+          "angellist_url": "https://angel.co/java"
+        },
+        {
+          "id": 34130,
+          "tag_type": "SkillTag",
+          "name": "qt",
+          "display_name": "Qt",
+          "angellist_url": "https://angel.co/qt"
+        },
+        {
+          "id": 72445,
+          "tag_type": "SkillTag",
+          "name": "swing",
+          "display_name": "Swing",
+          "angellist_url": "https://angel.co/swing"
+        },
+        {
+          "id": 1694,
+          "tag_type": "LocationTag",
+          "name": "palo alto",
+          "display_name": "Palo Alto",
+          "angellist_url": "https://angel.co/palo-alto"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 377940,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Bitwage",
+        "angellist_url": "https://angel.co/bitwage",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/377940-dd0aa8af44b524564e9b384efbd2f602-medium_jpg.jpg?buster=1401220028",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/377940-dd0aa8af44b524564e9b384efbd2f602-thumb_jpg.jpg?buster=1401220028",
+        "quality": 4,
+        "product_desc": "Based out of Palo Alto, California, we are dedicated to making a secure, seamless experience for the entire Bitcoin employer-employee relationship. Companies using Bitwage can reap the advantages of using Bitcoin Payroll, such as talent acquisition, advertising, and lower international costs, while Bitwage takes on the risk.\n\nThrough Bitwage, Bitcoin users no longer need to have a bank account in order to enter the Bitcoin space.\n\nTaxes\nWe pay all payroll-related taxes regardless of receiving BTC or USD\n\nEase of Use\nSend one amount of either BTC or USD and we handle the rest\nWe accept any mixture of BTC or USD and distribute any mixture of BTC or USD\n\nSecurity\nWe text employees to reconfirm that the wallet address is theirs and in their possession\nWe implement multi-sig wallets so we do not hold full custody of customer funds\n\nScalability\nAggregation software allows admins to quickly and easily obtain employee BTC percentage and wallet preferences",
+        "high_concept": "Bitcoin Payroll: made easy",
+        "follower_count": 23,
+        "company_url": "http://bitwage.co",
+        "created_at": "2014-04-10T22:18:27Z",
+        "updated_at": "2014-07-11T21:17:20Z"
+      }
+    },
+    {
+      "id": 32855,
+      "title": "Business Development, APAC",
+      "description": "AppDirect is the leading marketplace as a service and management platform, powering the enterprise cloud marketplaces of brands like: AT&T, Staples, Comcast, Cloud Foundry, Cox, and many more around the globe. We are a five-year old, high growth technology company looking to bring on experienced, strategic, communicative, and dedicated sales professional to work as our first Business Development team member in Singapore.\n\nThis is a high growth, high-impact role revolutionizing how businesses find, buy, and use software. If you're all about closing massive deals that affect millions of users around the globe, then AppDirect is for you. Salary ranges below reflect On Target Earnings (OTE) on a 50/50 split. ",
+      "created_at": "2014-07-11T20:51:03Z",
+      "updated_at": "2014-07-11T20:51:03Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.1",
+      "equity_vest": "4.0",
+      "currency_code": "SGD",
+      "job_type": "full-time",
+      "salary_min": 130000,
+      "salary_max": 210000,
+      "angellist_url": "https://angel.co/jobs?startup_id=39904",
+      "tags": [
+        {
+          "id": 15525,
+          "tag_type": "SkillTag",
+          "name": "business development",
+          "display_name": "Business Development",
+          "angellist_url": "https://angel.co/business-development-1"
+        },
+        {
+          "id": 16126,
+          "tag_type": "SkillTag",
+          "name": "cloud computing",
+          "display_name": "Cloud Computing",
+          "angellist_url": "https://angel.co/cloud-computing-1"
+        },
+        {
+          "id": 16149,
+          "tag_type": "SkillTag",
+          "name": "saas",
+          "display_name": "SaaS",
+          "angellist_url": "https://angel.co/saas-1"
+        },
+        {
+          "id": 31299,
+          "tag_type": "SkillTag",
+          "name": "enterprise sales",
+          "display_name": "Enterprise Sales",
+          "angellist_url": "https://angel.co/enterprise-sales"
+        },
+        {
+          "id": 131161,
+          "tag_type": "SkillTag",
+          "name": "SaaS Sales",
+          "display_name": "SaaS Sales",
+          "angellist_url": "https://angel.co/saas-sales"
+        },
+        {
+          "id": 1682,
+          "tag_type": "LocationTag",
+          "name": "singapore",
+          "display_name": "Singapore",
+          "angellist_url": "https://angel.co/singapore"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 39904,
+        "hidden": false,
+        "community_profile": false,
+        "name": "AppDirect",
+        "angellist_url": "https://angel.co/appdirect",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/39904-dc51fcb38683e0e2e4f323682a817992-medium_jpg.jpg?buster=1367974030",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/39904-dc51fcb38683e0e2e4f323682a817992-thumb_jpg.jpg?buster=1367974030",
+        "quality": 8,
+        "product_desc": "AppDirect is the leading cloud marketplace and management company. Dedicated to revolutionizing the way businesses run, our award-winning platform offers an out-of-the-box solution that allows you to launch a full branded marketplace in weeks instead of years, driving down development costs and deliver instantaneous value to your customers. Whether you're an independent software vendor (ISV) that builds apps, or a channel looking to sell them, AppDirect's marketplace-as-a-service technology will put you in a rocket-ship to the cloud. \n\nYou provide the place, we provide the market. ",
+        "high_concept": "The Leading Cloud Service Marketplace & Management Platform",
+        "follower_count": 125,
+        "company_url": "https://www.appdirect.com",
+        "created_at": "2012-01-18T01:05:00Z",
+        "updated_at": "2014-07-11T20:43:54Z"
+      }
+    },
+    {
+      "id": 32854,
+      "title": "Business Development, North America",
+      "description": "AppDirect is the leading marketplace as a service and management platform, powering the enterprise cloud marketplaces of brands like: AT&T, Staples, Comcast, Cloud Foundry, Cox, and many more around the globe. We are a five-year old, high growth technology company looking to bring on experienced, strategic, communicative, and dedicated sales professional to work as a Business Development team member in North America.\n\nThis is a high growth, high-impact role revolutionizing how businesses find, buy, and use software. If you're all about closing massive deals that affect millions of users around the globe, then AppDirect is for you. Salary ranges below reflect On Target Earnings (OTE) on a 50/50 split. ",
+      "created_at": "2014-07-11T20:48:59Z",
+      "updated_at": "2014-07-11T20:48:59Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.1",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 130000,
+      "salary_max": 210000,
+      "angellist_url": "https://angel.co/jobs?startup_id=39904",
+      "tags": [
+        {
+          "id": 15525,
+          "tag_type": "SkillTag",
+          "name": "business development",
+          "display_name": "Business Development",
+          "angellist_url": "https://angel.co/business-development-1"
+        },
+        {
+          "id": 16126,
+          "tag_type": "SkillTag",
+          "name": "cloud computing",
+          "display_name": "Cloud Computing",
+          "angellist_url": "https://angel.co/cloud-computing-1"
+        },
+        {
+          "id": 17572,
+          "tag_type": "SkillTag",
+          "name": "marketplaces",
+          "display_name": "Marketplaces",
+          "angellist_url": "https://angel.co/marketplaces-1"
+        },
+        {
+          "id": 31299,
+          "tag_type": "SkillTag",
+          "name": "enterprise sales",
+          "display_name": "Enterprise Sales",
+          "angellist_url": "https://angel.co/enterprise-sales"
+        },
+        {
+          "id": 1692,
+          "tag_type": "LocationTag",
+          "name": "san francisco",
+          "display_name": "San Francisco",
+          "angellist_url": "https://angel.co/san-francisco"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 39904,
+        "hidden": false,
+        "community_profile": false,
+        "name": "AppDirect",
+        "angellist_url": "https://angel.co/appdirect",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/39904-dc51fcb38683e0e2e4f323682a817992-medium_jpg.jpg?buster=1367974030",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/39904-dc51fcb38683e0e2e4f323682a817992-thumb_jpg.jpg?buster=1367974030",
+        "quality": 8,
+        "product_desc": "AppDirect is the leading cloud marketplace and management company. Dedicated to revolutionizing the way businesses run, our award-winning platform offers an out-of-the-box solution that allows you to launch a full branded marketplace in weeks instead of years, driving down development costs and deliver instantaneous value to your customers. Whether you're an independent software vendor (ISV) that builds apps, or a channel looking to sell them, AppDirect's marketplace-as-a-service technology will put you in a rocket-ship to the cloud. \n\nYou provide the place, we provide the market. ",
+        "high_concept": "The Leading Cloud Service Marketplace & Management Platform",
+        "follower_count": 125,
+        "company_url": "https://www.appdirect.com",
+        "created_at": "2012-01-18T01:05:00Z",
+        "updated_at": "2014-07-11T20:43:54Z"
+      }
+    },
+    {
+      "id": 32853,
+      "title": "Sr. Software Engineer - Mobile",
+      "description": "You are a top mobile app developer ready for the challenge of building a shopping app for daily use by millions of customers. You enjoy both design and implementation for performance, reliability, and a superior user experience.\nYou eat problems for breakfast and take pride in finding creative solutions by dinnertime. You are self-driven and work independently as well as deliver on time.\nYou love working with a talented and driven technical team and can communicate effectively.\n\nMust Have:\n•\tMobile Application Development using any of Java, Java Script, C# or Objective-C\n•\tObject Oriented Design, Object Oriented Programming, and Design Patterns\n•\tWorking knowledge of using iOS and Android Simulators to rapidly develop and debug\n\n\nPreferred Skills:\n•\tApp release and version management\n•\tKnowledge in Core Data or equivalent data store management\n•\tKnowledge of Client-Server architectures and HTTP APIs\n•\tBachelors in Computer Science or related degree, MS preferred\n•\tMinimum 5 years of hands on mobile development",
+      "created_at": "2014-07-11T20:04:20Z",
+      "updated_at": "2014-07-11T20:04:20Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.25",
+      "equity_max": "2.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 100000,
+      "salary_max": 150000,
+      "angellist_url": "https://angel.co/jobs?startup_id=132175",
+      "tags": [
+        {
+          "id": 14777,
+          "tag_type": "SkillTag",
+          "name": "objective c",
+          "display_name": "Objective C",
+          "angellist_url": "https://angel.co/objective-c"
+        },
+        {
+          "id": 14780,
+          "tag_type": "SkillTag",
+          "name": "java",
+          "display_name": "Java",
+          "angellist_url": "https://angel.co/java"
+        },
+        {
+          "id": 15889,
+          "tag_type": "SkillTag",
+          "name": "mobile application design",
+          "display_name": "Mobile Application Design",
+          "angellist_url": "https://angel.co/mobile-application-design"
+        },
+        {
+          "id": 16680,
+          "tag_type": "SkillTag",
+          "name": "android",
+          "display_name": "Android",
+          "angellist_url": "https://angel.co/android-1"
+        },
+        {
+          "id": 17363,
+          "tag_type": "SkillTag",
+          "name": "ios development",
+          "display_name": "iOS Development",
+          "angellist_url": "https://angel.co/ios-development"
+        },
+        {
+          "id": 30239,
+          "tag_type": "SkillTag",
+          "name": "http protocol",
+          "display_name": "HTTP Protocol",
+          "angellist_url": "https://angel.co/http-protocol"
+        },
+        {
+          "id": 30265,
+          "tag_type": "SkillTag",
+          "name": "object-oriented design",
+          "display_name": "Object-Oriented Design",
+          "angellist_url": "https://angel.co/object-oriented-design"
+        },
+        {
+          "id": 80910,
+          "tag_type": "SkillTag",
+          "name": "object-oriented programming",
+          "display_name": "Object-Oriented Programming",
+          "angellist_url": "https://angel.co/object-oriented-programming"
+        },
+        {
+          "id": 83709,
+          "tag_type": "SkillTag",
+          "name": "core data",
+          "display_name": "Core Data",
+          "angellist_url": "https://angel.co/core-data"
+        },
+        {
+          "id": 103170,
+          "tag_type": "SkillTag",
+          "name": "Objective-C",
+          "display_name": "Objective-C",
+          "angellist_url": "https://angel.co/objective-c-5"
+        },
+        {
+          "id": 129112,
+          "tag_type": "SkillTag",
+          "name": "model view controller",
+          "display_name": "Model View Controller",
+          "angellist_url": "https://angel.co/model-view-controller"
+        },
+        {
+          "id": 1693,
+          "tag_type": "LocationTag",
+          "name": "san jose",
+          "display_name": "San Jose",
+          "angellist_url": "https://angel.co/san-jose"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        },
+        {
+          "id": 14739,
+          "tag_type": "RoleTag",
+          "name": "mobile_developer",
+          "display_name": "Mobile Developer",
+          "angellist_url": "https://angel.co/mobile_developer"
+        }
+      ],
+      "startup": {
+        "id": 132175,
+        "hidden": false,
+        "community_profile": false,
+        "name": "hiku",
+        "angellist_url": "https://angel.co/hiku",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/132175-f8b3c7e3b2d0c148ca2fab756235e0c1-medium_jpg.jpg?buster=1352336810",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/132175-f8b3c7e3b2d0c148ca2fab756235e0c1-thumb_jpg.jpg?buster=1352336810",
+        "quality": 7,
+        "product_desc": "hiku remembers for you, and shops for you. \n\nConsumers use hiku to scan or speak items into their shopping list. It's so easy a five-year old can do it. When you walk in the store, your list is always with you via the hiku mobile app. So you remember what you need.\n\nhiku also shops for you by finding items in your list for sale online, and allowing you to purchase them right from your phone. Highly contextual commerce.",
+        "high_concept": "Kindle for consumer packaged goods",
+        "follower_count": 101,
+        "company_url": "http://www.hiku.us",
+        "created_at": "2012-10-25T17:55:12Z",
+        "updated_at": "2014-07-11T19:48:02Z"
+      }
+    },
+    {
+      "id": 32852,
+      "title": "UX Designer",
+      "description": "You are passionate about design and enjoy the challenge of turning a product into a great experience. You are a self-starter looking for the opportunity to own and shape our product experience, and take pride in perfecting all aspects of it.\nYou can spot design and usability issues and can’t wait to fix them. You like working directly with customers and can rapidly iterate on prototype designs (e.g. mobile app or web UX) to get feedback. \nYou love working with a talented and driven technical team and can communicate effectively.\n\nMust Have:\n•\tCustomer Development and UsabilityStudies\n•\tUser Experience Design\n\nPreferred Skills:\n•\tPhotoshop and Illustrator Skills\n•\tUser Interface Design\n•\tCSS, Java Script, HTML, and/or Objective-C\n•\tBachelors in Computer Science or Equivalent preferred\n•\tMinimum 3 years of hands on UI/UX Design Experience\n•\tExperience with usability of consumer electronics products\n",
+      "created_at": "2014-07-11T19:49:25Z",
+      "updated_at": "2014-07-11T19:49:25Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.25",
+      "equity_max": "2.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 80000,
+      "salary_max": 140000,
+      "angellist_url": "https://angel.co/jobs?startup_id=132175",
+      "tags": [
+        {
+          "id": 15537,
+          "tag_type": "SkillTag",
+          "name": "user experience design",
+          "display_name": "User Experience Design",
+          "angellist_url": "https://angel.co/user-experience-design-1"
+        },
+        {
+          "id": 17317,
+          "tag_type": "SkillTag",
+          "name": "customer development",
+          "display_name": "Customer Development",
+          "angellist_url": "https://angel.co/customer-development"
+        },
+        {
+          "id": 17897,
+          "tag_type": "SkillTag",
+          "name": "user interface design",
+          "display_name": "User Interface Design",
+          "angellist_url": "https://angel.co/user-interface-design"
+        },
+        {
+          "id": 29854,
+          "tag_type": "SkillTag",
+          "name": "user interaction design",
+          "display_name": "User Interaction Design",
+          "angellist_url": "https://angel.co/user-interaction-design"
+        },
+        {
+          "id": 38078,
+          "tag_type": "SkillTag",
+          "name": "adobe photoshop",
+          "display_name": "Adobe Photoshop",
+          "angellist_url": "https://angel.co/adobe-photoshop"
+        },
+        {
+          "id": 38079,
+          "tag_type": "SkillTag",
+          "name": "adobe illustrator",
+          "display_name": "Adobe Illustrator",
+          "angellist_url": "https://angel.co/adobe-illustrator"
+        },
+        {
+          "id": 166595,
+          "tag_type": "SkillTag",
+          "name": "Usability Studies",
+          "display_name": "Usability Studies",
+          "angellist_url": "https://angel.co/usability-studies"
+        },
+        {
+          "id": 1693,
+          "tag_type": "LocationTag",
+          "name": "san jose",
+          "display_name": "San Jose",
+          "angellist_url": "https://angel.co/san-jose"
+        },
+        {
+          "id": 14883,
+          "tag_type": "RoleTag",
+          "name": "designer",
+          "display_name": "Designer",
+          "angellist_url": "https://angel.co/designer"
+        }
+      ],
+      "startup": {
+        "id": 132175,
+        "hidden": false,
+        "community_profile": false,
+        "name": "hiku",
+        "angellist_url": "https://angel.co/hiku",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/132175-f8b3c7e3b2d0c148ca2fab756235e0c1-medium_jpg.jpg?buster=1352336810",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/132175-f8b3c7e3b2d0c148ca2fab756235e0c1-thumb_jpg.jpg?buster=1352336810",
+        "quality": 7,
+        "product_desc": "hiku remembers for you, and shops for you. \n\nConsumers use hiku to scan or speak items into their shopping list. It's so easy a five-year old can do it. When you walk in the store, your list is always with you via the hiku mobile app. So you remember what you need.\n\nhiku also shops for you by finding items in your list for sale online, and allowing you to purchase them right from your phone. Highly contextual commerce.",
+        "high_concept": "Kindle for consumer packaged goods",
+        "follower_count": 101,
+        "company_url": "http://www.hiku.us",
+        "created_at": "2012-10-25T17:55:12Z",
+        "updated_at": "2014-07-11T19:48:02Z"
+      }
+    },
+    {
+      "id": 32851,
+      "title": "VP, Enterprise Sales",
+      "description": "",
+      "created_at": "2014-07-11T19:44:38Z",
+      "updated_at": "2014-07-11T19:44:38Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.5",
+      "equity_max": "1.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 125000,
+      "salary_max": 160000,
+      "angellist_url": "https://angel.co/jobs?startup_id=82190",
+      "tags": [
+        {
+          "id": 1691,
+          "tag_type": "LocationTag",
+          "name": "washington, dc",
+          "display_name": "Washington, DC",
+          "angellist_url": "https://angel.co/washington-dc"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 82190,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Social Tables",
+        "angellist_url": "https://angel.co/social-tables",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/82190-268c07b6ad1f7af924c6a7ecca582568-medium_jpg.jpg?buster=1388590111",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/82190-268c07b6ad1f7af924c6a7ecca582568-thumb_jpg.jpg?buster=1388590111",
+        "quality": 7,
+        "product_desc": "Event planning SaaS. Web-based CAD diagramming. World's most powerful seating chart software. A CRM for your event.",
+        "high_concept": "Event planning SaaS",
+        "follower_count": 350,
+        "company_url": "http://www.socialtables.com/",
+        "created_at": "2012-04-10T16:17:14Z",
+        "updated_at": "2014-01-27T17:28:27Z"
+      }
+    },
+    {
+      "id": 32850,
+      "title": "Sr. Data Engineer/Architect",
+      "description": "Will be responsible for architecting and developing the data API and pipeline for our platform. \n\nDesirable Skills and Experience:\n5+ years data engineering experience\nProficiency with big data technologies (e.g., Spark, Hadoop/MapReduce, Hive, Cassandra, Storm)\nExperience with Scala or willingness to learn\nStrong fundamentals in algorithms, functional programming, software design\nEffective organizational skills and process/project management abilities with strong attention to detail\nExperience coordinating work with third-party development and data vendors\nExceptional analytic, writing and communication skills\nAdept at learning and applying new technologies\nStatistics, probability, mathematics and machine learning expertise\nProficiency in R, math/stat packages (SPSS, Matlab, SAS, etc.), statistical computing with Python a plus.\n",
+      "created_at": "2014-07-11T19:43:26Z",
+      "updated_at": "2014-07-11T19:43:26Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.5",
+      "equity_max": "2.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 90000,
+      "salary_max": 115000,
+      "angellist_url": "https://angel.co/jobs?startup_id=187265",
+      "tags": [
+        {
+          "id": 14775,
+          "tag_type": "SkillTag",
+          "name": "python",
+          "display_name": "Python",
+          "angellist_url": "https://angel.co/python"
+        },
+        {
+          "id": 14780,
+          "tag_type": "SkillTag",
+          "name": "java",
+          "display_name": "Java",
+          "angellist_url": "https://angel.co/java"
+        },
+        {
+          "id": 15605,
+          "tag_type": "SkillTag",
+          "name": "hadoop",
+          "display_name": "Hadoop",
+          "angellist_url": "https://angel.co/hadoop"
+        },
+        {
+          "id": 28833,
+          "tag_type": "SkillTag",
+          "name": "distributed computing",
+          "display_name": "Distributed Computing",
+          "angellist_url": "https://angel.co/distributed-computing"
+        },
+        {
+          "id": 102928,
+          "tag_type": "SkillTag",
+          "name": "Machine Learning, Data Science, Python, Perl, R",
+          "display_name": "Machine Learning, Data Science, Python, Perl, R",
+          "angellist_url": "https://angel.co/machine-learning-data-science-python-perl-r"
+        },
+        {
+          "id": 106734,
+          "tag_type": "SkillTag",
+          "name": "hdfs",
+          "display_name": "HDFS",
+          "angellist_url": "https://angel.co/hdfs"
+        },
+        {
+          "id": 148675,
+          "tag_type": "SkillTag",
+          "name": "Apache Spark",
+          "display_name": "Apache Spark",
+          "angellist_url": "https://angel.co/apache-spark-1"
+        },
+        {
+          "id": 155525,
+          "tag_type": "LocationTag",
+          "name": "Seattle, WA",
+          "display_name": "Seattle, Wa",
+          "angellist_url": "https://angel.co/seattle-wa-1"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 187265,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Algorithmia",
+        "angellist_url": "https://angel.co/algorithmia",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/187265-7bd28323d9bd7966a5122f88613014b1-medium_jpg.jpg?buster=1377899918",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/187265-7bd28323d9bd7966a5122f88613014b1-thumb_jpg.jpg?buster=1377899918",
+        "quality": 4,
+        "product_desc": "Algorithmia gives developers the ability to turn algorithms into scalable web services with a single click. Application developers can then integrate the algorithm into their own applications with under 10 lines of code. Algorithmia hosts the web services , makes them discoverable and enables algorithm developers to get paid for usage.",
+        "high_concept": "Marketplace for Algorithms",
+        "follower_count": 27,
+        "company_url": "https://algorithmia.com/",
+        "created_at": "2013-03-25T18:00:03Z",
+        "updated_at": "2014-07-11T17:31:43Z"
+      }
+    },
+    {
+      "id": 32849,
+      "title": "VP, Finance",
+      "description": "",
+      "created_at": "2014-07-11T19:42:31Z",
+      "updated_at": "2014-07-11T19:42:31Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.5",
+      "equity_max": "1.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 75000,
+      "salary_max": 125000,
+      "angellist_url": "https://angel.co/jobs?startup_id=82190",
+      "tags": [
+        {
+          "id": 1691,
+          "tag_type": "LocationTag",
+          "name": "washington, dc",
+          "display_name": "Washington, DC",
+          "angellist_url": "https://angel.co/washington-dc"
+        },
+        {
+          "id": 103477,
+          "tag_type": "RoleTag",
+          "name": "finance",
+          "display_name": "Finance",
+          "angellist_url": "https://angel.co/finance-3"
+        }
+      ],
+      "startup": {
+        "id": 82190,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Social Tables",
+        "angellist_url": "https://angel.co/social-tables",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/82190-268c07b6ad1f7af924c6a7ecca582568-medium_jpg.jpg?buster=1388590111",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/82190-268c07b6ad1f7af924c6a7ecca582568-thumb_jpg.jpg?buster=1388590111",
+        "quality": 7,
+        "product_desc": "Event planning SaaS. Web-based CAD diagramming. World's most powerful seating chart software. A CRM for your event.",
+        "high_concept": "Event planning SaaS",
+        "follower_count": 350,
+        "company_url": "http://www.socialtables.com/",
+        "created_at": "2012-04-10T16:17:14Z",
+        "updated_at": "2014-01-27T17:28:27Z"
+      }
+    },
+    {
+      "id": 32848,
+      "title": "VP, Human Resources",
+      "description": "",
+      "created_at": "2014-07-11T19:41:50Z",
+      "updated_at": "2014-07-11T19:41:50Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.5",
+      "equity_max": "1.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 90000,
+      "salary_max": 140000,
+      "angellist_url": "https://angel.co/jobs?startup_id=82190",
+      "tags": [
+        {
+          "id": 1691,
+          "tag_type": "LocationTag",
+          "name": "washington, dc",
+          "display_name": "Washington, DC",
+          "angellist_url": "https://angel.co/washington-dc"
+        },
+        {
+          "id": 103479,
+          "tag_type": "RoleTag",
+          "name": "human_resources",
+          "display_name": "Human Resources",
+          "angellist_url": "https://angel.co/human_resources"
+        }
+      ],
+      "startup": {
+        "id": 82190,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Social Tables",
+        "angellist_url": "https://angel.co/social-tables",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/82190-268c07b6ad1f7af924c6a7ecca582568-medium_jpg.jpg?buster=1388590111",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/82190-268c07b6ad1f7af924c6a7ecca582568-thumb_jpg.jpg?buster=1388590111",
+        "quality": 7,
+        "product_desc": "Event planning SaaS. Web-based CAD diagramming. World's most powerful seating chart software. A CRM for your event.",
+        "high_concept": "Event planning SaaS",
+        "follower_count": 350,
+        "company_url": "http://www.socialtables.com/",
+        "created_at": "2012-04-10T16:17:14Z",
+        "updated_at": "2014-01-27T17:28:27Z"
+      }
+    },
+    {
+      "id": 32847,
+      "title": "Image Analysis Specialist",
+      "description": "",
+      "created_at": "2014-07-11T19:16:36Z",
+      "updated_at": "2014-07-11T19:16:36Z",
+      "equity_cliff": "1.0",
+      "equity_min": "1.2",
+      "equity_max": "1.8",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 80000,
+      "salary_max": 125000,
+      "angellist_url": "https://angel.co/jobs?startup_id=174572",
+      "tags": [
+        {
+          "id": 1692,
+          "tag_type": "LocationTag",
+          "name": "san francisco",
+          "display_name": "San Francisco",
+          "angellist_url": "https://angel.co/san-francisco"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 174572,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Quantified Skin",
+        "angellist_url": "https://angel.co/quantified-skin",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/174572-d06549d82d23bbce44716e6d481fc7ca-medium_jpg.jpg?buster=1403114861",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/174572-d06549d82d23bbce44716e6d481fc7ca-thumb_jpg.jpg?buster=1403114861",
+        "quality": 7,
+        "product_desc": "Skin Health involves understanding diet, exercise, genes, activities and lifestyle. We are data driven system that analyzes a persons quirks and prompt them to get closer to better skin. \n\nOur smart system looks at skin care products a person uses to gauge their skin health desires and notifies them about lifestyle choice that might be getting in the way of healthy skin. We use selfies, picture based quizzes and data from wearable trackers. \n\nThis platform also benefits businesses. Small businesses have access to a new set of users dedicated to achieving healthy lifestyles to promote healthy skin.  We allow these businesses to have targeted outreach to our users. Cosmetics companies now have a clearer understanding of select demographics for target marketing and new product development.  ",
+        "high_concept": "Know the skin you're in ",
+        "follower_count": 140,
+        "company_url": "http://quantifiedskin.com",
+        "created_at": "2013-02-26T08:36:37Z",
+        "updated_at": "2014-07-07T19:49:17Z"
+      }
+    },
+    {
+      "id": 32846,
+      "title": "Javascript Developer",
+      "description": "You'll be working extensively with REST APIs using JS and you should be very comfortable with cross-browser development and debugging. We're looking for somebody with solid Javascript and testing skills.\n\nNo degree required. This is a 2 month contract position, paid at around $50 per hour depending on experience.\n\nWe work out of SURF Incubator, a co-working space in Downtown Seattle with dozens of other startups. There are great networking opportunities, including a wide variety of meetups and developer interest groups.",
+      "created_at": "2014-07-11T19:12:24Z",
+      "updated_at": "2014-07-11T19:12:24Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "contract",
+      "salary_min": 70000,
+      "salary_max": 96000,
+      "angellist_url": "https://angel.co/jobs?startup_id=22896",
+      "tags": [
+        {
+          "id": 14781,
+          "tag_type": "SkillTag",
+          "name": "javascript",
+          "display_name": "Javascript",
+          "angellist_url": "https://angel.co/javascript"
+        },
+        {
+          "id": 25305,
+          "tag_type": "SkillTag",
+          "name": "software testing",
+          "display_name": "Software Testing",
+          "angellist_url": "https://angel.co/software-testing"
+        },
+        {
+          "id": 75005,
+          "tag_type": "SkillTag",
+          "name": "debugging",
+          "display_name": "Debugging",
+          "angellist_url": "https://angel.co/debugging"
+        },
+        {
+          "id": 81741,
+          "tag_type": "SkillTag",
+          "name": "rest apis",
+          "display_name": "REST APIs",
+          "angellist_url": "https://angel.co/rest-apis"
+        },
+        {
+          "id": 1680,
+          "tag_type": "LocationTag",
+          "name": "seattle",
+          "display_name": "Seattle",
+          "angellist_url": "https://angel.co/seattle"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 22896,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Saltbox",
+        "angellist_url": "https://angel.co/saltbox",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/22896-2b6e55da8555905957d5089d389d1a49-medium_jpg.jpg?buster=1376356006",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/22896-2b6e55da8555905957d5089d389d1a49-thumb_jpg.jpg?buster=1376356006",
+        "quality": 4,
+        "product_desc": "Wax LRS lets companies connect disparate sources of training data in one dashboard so they can browse all the data in one place, optimize their training and see how it impacts employee performance.\n\nSaltbox helps companies aggregate and analyze learning data to improve employee performance.",
+        "high_concept": "We measure employee training and performance for large companies",
+        "follower_count": 35,
+        "company_url": "http://www.saltbox.com",
+        "created_at": "2011-08-17T07:19:53Z",
+        "updated_at": "2014-05-21T18:32:49Z"
+      }
+    },
+    {
+      "id": 32845,
+      "title": "VP Sales",
+      "description": "Candidate should have min 10 years experience in med-Surg or Legal services.  You would selling advertising to the very same clientele.",
+      "created_at": "2014-07-11T18:29:40Z",
+      "updated_at": "2014-07-11T18:29:40Z",
+      "equity_cliff": "1.0",
+      "equity_min": "2.0",
+      "equity_max": "4.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 50000,
+      "salary_max": 70000,
+      "angellist_url": "https://angel.co/jobs?startup_id=436400",
+      "tags": [
+        {
+          "id": 2218,
+          "tag_type": "LocationTag",
+          "name": "fort lauderdale",
+          "display_name": "Fort Lauderdale",
+          "angellist_url": "https://angel.co/fort-lauderdale"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        },
+        {
+          "id": 80489,
+          "tag_type": "RoleTag",
+          "name": "marketing",
+          "display_name": "Marketing",
+          "angellist_url": "https://angel.co/marketing-2"
+        }
+      ],
+      "startup": {
+        "id": 436400,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Top 10 Rankings",
+        "angellist_url": "https://angel.co/top-10-rankings",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436400-ad0873e6f4d69f37e2f42ea2f35e4d7b-medium_jpg.jpg?buster=1405097639",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/436400-ad0873e6f4d69f37e2f42ea2f35e4d7b-thumb_jpg.jpg?buster=1405097639",
+        "quality": 3,
+        "product_desc": "The company has a robust portfolio of keyword Rich URL's targeting high earning professionals.  The model is not all in but more of a limited number of listed professionals 10 per state/market giving the client a better chance at client acquisition.   We make the sites relevant to category with original professionally written content on their profession, thus creating a organic rank with relevance to profession.  We use keywords in our urls like plastic Surgeon and the curiosity hook of \"ranking\" or review in it's boolean matrix longtail. Everyone sees the inflight magazines listing top Doc's @ $15,000 which is hard pressed acquire a patient if in Dallas and Dr. is in Seattle.  The same goes for the mass directories which list everyone possible thus decreasing odds of conversion.  Ours is 10 to 1 not 1000's to 1. It is all about rank and relevance.  We provide a toll free number where clients can monitor their own staffs conversion on call's generated by our sites referrals.\n22 URL's! ",
+        "high_concept": "Professional Directory focused on high end earners with limited entry",
+        "follower_count": 2,
+        "company_url": "http://www.idg1.com",
+        "created_at": "2014-07-11T16:54:03Z",
+        "updated_at": "2014-07-11T18:32:02Z"
+      }
+    },
+    {
+      "id": 32844,
+      "title": "Mobile App Developer Intern",
+      "description": "",
+      "created_at": "2014-07-11T18:07:13Z",
+      "updated_at": "2014-07-11T18:07:13Z",
+      "equity_cliff": null,
+      "equity_min": null,
+      "equity_max": null,
+      "equity_vest": null,
+      "currency_code": "USD",
+      "job_type": "internship",
+      "salary_min": 0,
+      "salary_max": 5000,
+      "angellist_url": "https://angel.co/jobs?startup_id=418402",
+      "tags": [
+        {
+          "id": 1694,
+          "tag_type": "LocationTag",
+          "name": "palo alto",
+          "display_name": "Palo Alto",
+          "angellist_url": "https://angel.co/palo-alto"
+        },
+        {
+          "id": 14739,
+          "tag_type": "RoleTag",
+          "name": "mobile_developer",
+          "display_name": "Mobile Developer",
+          "angellist_url": "https://angel.co/mobile_developer"
+        }
+      ],
+      "startup": {
+        "id": 418402,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Summer Technologies",
+        "angellist_url": "https://angel.co/summer-technologies",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/418402-00b429d412f4463d12501969c0bd5422-medium_jpg.jpg?buster=1402759325",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/418402-00b429d412f4463d12501969c0bd5422-thumb_jpg.jpg?buster=1402759325",
+        "quality": 1,
+        "product_desc": "Summer Technologies is the first and only software startup for cattle ranchers. We’re a team of Stanford grad students building a platform for grassfed cattle ranchers to track herd grazing, and photograph pastures between grazings to measure grass production. Our mission is to upend agriculture by helping sustainable ranchers take over their industries. We are passionate about large-scale positive impact on the food system, building a company grounded in integrity and trust, and enabling everyone we touch to make better decisions. \n\nOur first product is an iPad app for cattle ranchers to draw paddocks on a map and geotag photos of grass between grazings. Features include:\n\n- Ability to create paddocks by tracing with your finger on a Google Earth map\n- Taking geotagged photos and making notes of grass heigh before and after grazing\n\nWe are slated to officially launch in fall of 2014. In the mean time sign up for our mailing list at www.farmtocloud.com",
+        "high_concept": "Intelligent farming: putting your farm into the cloud",
+        "follower_count": 4,
+        "company_url": "http://www.farmtocloud.com",
+        "created_at": "2014-06-14T15:22:13Z",
+        "updated_at": "2014-07-11T18:04:12Z"
+      }
+    },
+    {
+      "id": 32843,
+      "title": "User Experience Designer",
+      "description": "Dunwello is an early-stage startup (4 full-time people) looking to hire a UI/UX designer. We are looking for someone who is ambitious, generally excellent, has a good sense of humor, and has a passion for crafting simple and elegant user interfaces for consumer products. Our vision is to build something that will make people happier, which if you ask us is a pretty excellent and motivating thing to do. Your job will be to help define the vision and aesthetics of both product and brand. We are looking to hire, like right now. \n\n\nRequired skills:\n* Experience creating UI/UX designs for consumer products (web and mobile).\n* Independent thinker who cares not only about making wireframes pretty, but also challenges decisions and proposes better UX solutions. \n* Ability to “roll with it” - we have a plan, but like all startups things change frequently, so you gotta be agile. \n* Willingness to take constructive criticism and desire to learn and improve.\n* Laser-sharp focus on design details for crafting a beautiful end-to-end experience.\n* Rapid exploration skills for brainstorming product directions. \n* Understanding that a product needs a certain personality, and willingness to develop alignment between product and brand. \n* Desire to help others and yourself be both happy and productive. And you should be prepared to either make us laugh, or at least laugh at our bad jokes. \n\nBonus skills:\n* HTML, CSS, Javascript knowledge. \n* Prototyping ability. \n* Experience running user tests. \n",
+      "created_at": "2014-07-11T18:05:28Z",
+      "updated_at": "2014-07-11T18:09:38Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.25",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 60000,
+      "salary_max": 80000,
+      "angellist_url": "https://angel.co/jobs?startup_id=275696",
+      "tags": [
+        {
+          "id": 77772,
+          "tag_type": "SkillTag",
+          "name": "application design",
+          "display_name": "Application Design",
+          "angellist_url": "https://angel.co/application-design"
+        },
+        {
+          "id": 80934,
+          "tag_type": "SkillTag",
+          "name": "consumer product design",
+          "display_name": "Consumer Product Design",
+          "angellist_url": "https://angel.co/consumer-product-design"
+        },
+        {
+          "id": 1620,
+          "tag_type": "LocationTag",
+          "name": "boston",
+          "display_name": "Boston",
+          "angellist_url": "https://angel.co/boston"
+        },
+        {
+          "id": 14883,
+          "tag_type": "RoleTag",
+          "name": "designer",
+          "display_name": "Designer",
+          "angellist_url": "https://angel.co/designer"
+        }
+      ],
+      "startup": {
+        "id": 275696,
+        "hidden": false,
+        "community_profile": false,
+        "name": "dunwello",
+        "angellist_url": "https://angel.co/dunwello",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/275696-99335faecd2fb01467c98d5032f23cf6-medium_jpg.jpg?buster=1393099676",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/275696-99335faecd2fb01467c98d5032f23cf6-thumb_jpg.jpg?buster=1393099676",
+        "quality": 8,
+        "product_desc": "Dunwello is a social recognition platform for sales and customer service teams. Dunwello makes it easy for coworkers and customers to highlight a job well done and automatically turns the moments in to highlight reels that individuals and managers can look back at so great work is never forgotten.",
+        "high_concept": "Social recognition platform for sales and customer service teams. ",
+        "follower_count": 68,
+        "company_url": "http://www.dunwello.com",
+        "created_at": "2013-10-04T20:23:56Z",
+        "updated_at": "2014-07-11T20:05:56Z"
+      }
+    },
+    {
+      "id": 32842,
+      "title": "VP Sales - B2B SaaS Startup",
+      "description": "About the role: As Jhana’s VP of Sales, you’ll be responsible for sales and sales development, and will have a major impact on the company’s growth and direction.\n\nAbout Jhana: The mission that gets us out of bed in the morning is simple but not easy: Help people be more successful at work.\n\nTo achieve this goal we’ve assembled a high-performing team of entrepreneurs, sales and customer success champions, and deep thinkers who get really excited about ideas and learning. Together, we’re creating and supporting an online resource to help new managers become good managers — a result that not only benefits them, but also their teams and organizations. With over 20 delighted customers (including Facebook, Groupon, Eventbrite, Match.com, Modcloth and SolarCity) we’re well on our way to building a long-term company. To learn more check out our team and product.\n\nYour responsibilities\n\nHelp build a successful, long-term, mission-driven company\nContinue the rapid growth and own the overall sales number, including new business, expansions and renewals\nHire, manage, coach and motivate the sales and sales development team\nRelentlessly improve and scale the sales process\nMember of Jhana’s executive team, reporting to the CEO\n\nREQUIREMENTS\n\nProven track record of being an amazing sales leader who can build a high-producing, customer-focused sales team. Extensive experience in B2B SaaS, specifically a high-touch inside sale. Experience selling to HR helpful, but not required.\nDriven, high-energy, smart, learns quickly\nStrong recruiter, manager and team-builder\nProcess improver\nSales culture fit –– very customer-centric and very high-integrity\nOverall culture and mission fit –– see Jhana's values here\n\nBENEFITS\n\nGreat, mission-driven team that will push you to grow and be your best. Competitive compensation package and generous equity. Full medical/dental/vision benefits. Based in San Francisco.",
+      "created_at": "2014-07-11T17:58:02Z",
+      "updated_at": "2014-07-11T17:58:02Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.1",
+      "equity_max": "1.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 0,
+      "salary_max": 0,
+      "angellist_url": "https://angel.co/jobs?startup_id=418909",
+      "tags": [
+        {
+          "id": 15708,
+          "tag_type": "SkillTag",
+          "name": "team building",
+          "display_name": "Team Building",
+          "angellist_url": "https://angel.co/team-building"
+        },
+        {
+          "id": 16149,
+          "tag_type": "SkillTag",
+          "name": "saas",
+          "display_name": "SaaS",
+          "angellist_url": "https://angel.co/saas-1"
+        },
+        {
+          "id": 18318,
+          "tag_type": "SkillTag",
+          "name": "leadership",
+          "display_name": "Leadership",
+          "angellist_url": "https://angel.co/leadership-1"
+        },
+        {
+          "id": 18599,
+          "tag_type": "SkillTag",
+          "name": "sales management",
+          "display_name": "Sales Management",
+          "angellist_url": "https://angel.co/sales-management"
+        },
+        {
+          "id": 39786,
+          "tag_type": "SkillTag",
+          "name": "leadership and team inspiration",
+          "display_name": "Leadership and Team Inspiration",
+          "angellist_url": "https://angel.co/leadership-and-team-inspiration"
+        },
+        {
+          "id": 131161,
+          "tag_type": "SkillTag",
+          "name": "SaaS Sales",
+          "display_name": "SaaS Sales",
+          "angellist_url": "https://angel.co/saas-sales"
+        },
+        {
+          "id": 1692,
+          "tag_type": "LocationTag",
+          "name": "san francisco",
+          "display_name": "San Francisco",
+          "angellist_url": "https://angel.co/san-francisco"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 418909,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Jhana ",
+        "angellist_url": "https://angel.co/jhana-1",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/418909-dd9c0c449c26e840df50bc0840e6f84a-medium_jpg.jpg?buster=1402880107",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/418909-dd9c0c449c26e840df50bc0840e6f84a-thumb_jpg.jpg?buster=1402880107",
+        "quality": 3,
+        "product_desc": "Jhana is a hosted, secure and scalable online resource with original content and tools. We provide practical guidance on a wide range of essential business topics like delegation, productivity, running meetings, coaching and more. The important stuff that’s often overlooked but critical to business success.\r\n\r\nWe’ve developed hundreds of original and practical articles, videos and tools that are available instantly through a dead-simple online platform, ensuring your managers get the help they need, when they need it. And in the process we help you identify and address hot-button issues before they spiral out of control. ",
+        "high_concept": "Online learning for managers at tech companies. ",
+        "follower_count": 5,
+        "company_url": "https://www.jhanaeducation.com",
+        "created_at": "2014-06-16T00:55:12Z",
+        "updated_at": "2014-07-07T21:54:47Z"
+      }
+    },
+    {
+      "id": 32841,
+      "title": "Developer",
+      "description": "",
+      "created_at": "2014-07-11T17:56:24Z",
+      "updated_at": "2014-07-11T17:56:24Z",
+      "equity_cliff": "1.0",
+      "equity_min": "5.0",
+      "equity_max": "8.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "cofounder",
+      "salary_min": null,
+      "salary_max": null,
+      "angellist_url": "https://angel.co/jobs?startup_id=415775",
+      "tags": [
+        {
+          "id": 15670,
+          "tag_type": "SkillTag",
+          "name": "software development",
+          "display_name": "Software Development",
+          "angellist_url": "https://angel.co/software-development"
+        },
+        {
+          "id": 16680,
+          "tag_type": "SkillTag",
+          "name": "android",
+          "display_name": "Android",
+          "angellist_url": "https://angel.co/android-1"
+        },
+        {
+          "id": 17236,
+          "tag_type": "SkillTag",
+          "name": "web development",
+          "display_name": "Web Development",
+          "angellist_url": "https://angel.co/web-development-2"
+        },
+        {
+          "id": 17363,
+          "tag_type": "SkillTag",
+          "name": "ios development",
+          "display_name": "iOS Development",
+          "angellist_url": "https://angel.co/ios-development"
+        },
+        {
+          "id": 31349,
+          "tag_type": "SkillTag",
+          "name": "web analytics",
+          "display_name": "Web Analytics",
+          "angellist_url": "https://angel.co/web-analytics"
+        },
+        {
+          "id": 46387,
+          "tag_type": "SkillTag",
+          "name": "mobile application development",
+          "display_name": "Mobile Application Development",
+          "angellist_url": "https://angel.co/mobile-application-development"
+        },
+        {
+          "id": 1681,
+          "tag_type": "LocationTag",
+          "name": "silicon valley",
+          "display_name": "Silicon Valley",
+          "angellist_url": "https://angel.co/silicon-valley"
+        },
+        {
+          "id": 14739,
+          "tag_type": "RoleTag",
+          "name": "mobile_developer",
+          "display_name": "Mobile Developer",
+          "angellist_url": "https://angel.co/mobile_developer"
+        }
+      ],
+      "startup": {
+        "id": 415775,
+        "hidden": false,
+        "community_profile": false,
+        "name": "My Best Funnel",
+        "angellist_url": "https://angel.co/my-best-funnel",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/415775-b0d891a1e2139ae7b82464c4c53598b0-medium_jpg.jpg?buster=1405096756",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/415775-b0d891a1e2139ae7b82464c4c53598b0-thumb_jpg.jpg?buster=1405096756",
+        "quality": 3,
+        "product_desc": "helps both marketers, startups and business people to optimize their value propositions and online marketing strategies to get more growth only on a website that links all the best growth hacking tools there, while exercising strategies common inbound and outbound marketing, a / b testing and more.",
+        "high_concept": "growth hacking  and digital marketing  multiplatform to help you startup",
+        "follower_count": 1,
+        "company_url": "http://www.mybestfunnel.com",
+        "created_at": "2014-06-10T19:17:49Z",
+        "updated_at": "2014-07-11T17:43:54Z"
+      }
+    },
+    {
+      "id": 32840,
+      "title": "Experiences UX & Branding Designer",
+      "description": "❤ The Job\nWork closely but independently with a creative director on multiple projects\nOn everything from brainstorming, wireframes, comps, visual design, illustration and code\nSuper relaxed and casual atmosphere\nGrow with the studio into a creative director position.\n\n☛ You\nBe independent, a great communicator, resourceful and ready to learn fast\nHave at least 1 year of full-time, studio or agency experience\nWeb & App Design Experience\nBranding Experience\nMobile Experience is a plus\nKnow PS, AI, ID like no other, including all keyboard shortcuts\nUnderstand HTML, CSS and WordPress",
+      "created_at": "2014-07-11T17:54:00Z",
+      "updated_at": "2014-07-11T17:54:55Z",
+      "equity_cliff": "1.0",
+      "equity_min": "1.0",
+      "equity_max": "2.0",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 40000,
+      "salary_max": 50000,
+      "angellist_url": "https://angel.co/jobs?startup_id=261736",
+      "tags": [
+        {
+          "id": 15521,
+          "tag_type": "SkillTag",
+          "name": "branding",
+          "display_name": "Branding",
+          "angellist_url": "https://angel.co/branding-1"
+        },
+        {
+          "id": 15537,
+          "tag_type": "SkillTag",
+          "name": "user experience design",
+          "display_name": "User Experience Design",
+          "angellist_url": "https://angel.co/user-experience-design-1"
+        },
+        {
+          "id": 19659,
+          "tag_type": "SkillTag",
+          "name": "visual design",
+          "display_name": "Visual Design",
+          "angellist_url": "https://angel.co/visual-design"
+        },
+        {
+          "id": 25228,
+          "tag_type": "SkillTag",
+          "name": "illustration",
+          "display_name": "Illustration",
+          "angellist_url": "https://angel.co/illustration"
+        },
+        {
+          "id": 35299,
+          "tag_type": "SkillTag",
+          "name": "typography",
+          "display_name": "Typography",
+          "angellist_url": "https://angel.co/typography"
+        },
+        {
+          "id": 1664,
+          "tag_type": "LocationTag",
+          "name": "new york, ny",
+          "display_name": "New York City",
+          "angellist_url": "https://angel.co/new-york-ny-1"
+        },
+        {
+          "id": 14883,
+          "tag_type": "RoleTag",
+          "name": "designer",
+          "display_name": "Designer",
+          "angellist_url": "https://angel.co/designer"
+        }
+      ],
+      "startup": {
+        "id": 261736,
+        "hidden": false,
+        "community_profile": false,
+        "name": "The Office for Visual Affairs",
+        "angellist_url": "https://angel.co/the-office-for-visual-affairs",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/261736-c9492c331c8e4c0f96ad19221bba221a-medium_jpg.jpg?buster=1401635253",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/261736-c9492c331c8e4c0f96ad19221bba221a-thumb_jpg.jpg?buster=1401635253",
+        "quality": 4,
+        "product_desc": null,
+        "high_concept": "",
+        "follower_count": 2,
+        "company_url": "http://officeforvisualaffairs.com",
+        "created_at": "2013-09-07T21:16:37Z",
+        "updated_at": "2014-07-11T17:55:20Z"
+      }
+    },
+    {
+      "id": 32839,
+      "title": "Lead Backend Developer (Rails)",
+      "description": "",
+      "created_at": "2014-07-11T17:38:17Z",
+      "updated_at": "2014-07-11T17:38:17Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "1.0",
+      "equity_vest": "4.0",
+      "currency_code": "EUR",
+      "job_type": "full-time",
+      "salary_min": 30000,
+      "salary_max": 38000,
+      "angellist_url": "https://angel.co/jobs?startup_id=361666",
+      "tags": [
+        {
+          "id": 17184,
+          "tag_type": "SkillTag",
+          "name": "ruby",
+          "display_name": "Ruby",
+          "angellist_url": "https://angel.co/ruby"
+        },
+        {
+          "id": 17236,
+          "tag_type": "SkillTag",
+          "name": "web development",
+          "display_name": "Web Development",
+          "angellist_url": "https://angel.co/web-development-2"
+        },
+        {
+          "id": 18963,
+          "tag_type": "SkillTag",
+          "name": "restful services",
+          "display_name": "RESTful Services",
+          "angellist_url": "https://angel.co/restful-services"
+        },
+        {
+          "id": 57045,
+          "tag_type": "SkillTag",
+          "name": "backend development",
+          "display_name": "Backend Development",
+          "angellist_url": "https://angel.co/backend-development"
+        },
+        {
+          "id": 82532,
+          "tag_type": "SkillTag",
+          "name": "ruby on rails",
+          "display_name": "Ruby on Rails",
+          "angellist_url": "https://angel.co/ruby-on-rails-1"
+        },
+        {
+          "id": 1914,
+          "tag_type": "LocationTag",
+          "name": "berlin",
+          "display_name": "Berlin",
+          "angellist_url": "https://angel.co/berlin"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 361666,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Inkitt",
+        "angellist_url": "https://angel.co/inkitt",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/361666-5b748351f4fe1e339c295b4fd2b12f0b-medium_jpg.jpg?buster=1395050132",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/361666-5b748351f4fe1e339c295b4fd2b12f0b-thumb_jpg.jpg?buster=1395050132",
+        "quality": 3,
+        "product_desc": "Inkitt is a platform where authors can write novels online and readers can read them. The remarkable thing: we can predict future bestsellers beforehand by analyzing readers behavior.",
+        "high_concept": "Building the world’s most popular platform for writing and reading novels",
+        "follower_count": 11,
+        "company_url": "http://www.inkitt.com",
+        "created_at": "2014-03-17T09:55:39Z",
+        "updated_at": "2014-07-11T14:01:24Z"
+      }
+    },
+    {
+      "id": 32838,
+      "title": "Sales Executive",
+      "description": "Your Responsibilities:\n- You will research, identify, and develop new markets and customers for Local Motion. \n- Develop new strategies for each new market identified. \n- Meet clear sales objectives for each segment outlined. \n- Remain current on market trends, activities, and competitors. \n- Work with our marketing team to ensure quality lead generation. \n- Maintain relationships with customers by providing support, information, and advice. \n- Record all sales activity in Salesforce.com. \n- Leveraging analytics to make the best decisions.\n\nYour Skills and Experience:\n- BS degree or equivalent experience. \n- 3 years minimum of proven successful track record in sales. \n- Experience in selling SaaS and/or Hardware in a B2B environment. \n- Comfortable in lead generation, presenting, negotiating, and closing sales. \n- Independent and creative team player that has self-motivated towards sales and achieving goals. ",
+      "created_at": "2014-07-11T16:23:33Z",
+      "updated_at": "2014-07-11T16:23:33Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.1",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 75000,
+      "salary_max": 90000,
+      "angellist_url": "https://angel.co/jobs?startup_id=1463",
+      "tags": [
+        {
+          "id": 16149,
+          "tag_type": "SkillTag",
+          "name": "saas",
+          "display_name": "SaaS",
+          "angellist_url": "https://angel.co/saas-1"
+        },
+        {
+          "id": 16278,
+          "tag_type": "SkillTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-1"
+        },
+        {
+          "id": 50505,
+          "tag_type": "SkillTag",
+          "name": "b2b sales",
+          "display_name": "B2B Sales",
+          "angellist_url": "https://angel.co/b2b-sales"
+        },
+        {
+          "id": 1847,
+          "tag_type": "LocationTag",
+          "name": "san mateo",
+          "display_name": "San Mateo",
+          "angellist_url": "https://angel.co/san-mateo"
+        },
+        {
+          "id": 80488,
+          "tag_type": "RoleTag",
+          "name": "sales",
+          "display_name": "Sales",
+          "angellist_url": "https://angel.co/sales-2"
+        }
+      ],
+      "startup": {
+        "id": 1463,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Local Motion",
+        "angellist_url": "https://angel.co/local-motion",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/1463-920119dad204f6ea17cc6ef8288db9c7-medium_jpg.jpg?buster=1332465597",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/1463-920119dad204f6ea17cc6ef8288db9c7-thumb_jpg.jpg?buster=1332465597",
+        "quality": 9,
+        "product_desc": "Local Motion is building car-sharing technologies for fleets.\nTake a large municipality with 3000 vehicles. We start by installing our onboard module in every vehicle: it's a small RFID reader that sits behind the windshield and can lock or unlock the car doors. Employees can now book any car in the fleet and access it with their existing ID badge.\nUsers save time and stress.\nManagers get control and can start selling a big part of their fleet: every vehicle is used and shared by more people, so fewer vehicles are needed overall.\n",
+        "high_concept": "Turning fleets into smart transportation networks",
+        "follower_count": 383,
+        "company_url": "http://www.getlocalmotion.com",
+        "created_at": "2010-12-11T01:19:19Z",
+        "updated_at": "2014-04-22T22:38:41Z"
+      }
+    },
+    {
+      "id": 32837,
+      "title": "Installation Field Technician",
+      "description": "Your responsibilities:\n- Supporting installation of Local Motion Cloud Key hardware into customer vehicles. \n- Contributing to setup and prep on all materials for retrofits. \n- Trouble shooting and problem solving quickly in a calm fashion when in the field. \n- Documenting installations into customer vehicles. \n- Traveling to customer sites when needed.\n\nYour experience:\n- Ability to read, understand and explain wiring diagrams. \n- Demonstrated organizational and documentation skills. \n- Determine subtle differences between vehicle model wiring diagrams. \n- Speedy, efficient and detailed at what you do. \n- Obsessive about maintaining a clean and organized workspace. \n- Knowledge of aftermarket automotive devices. \n- Highly motivated self-starter. \n- Eagerness to learn with a positive attitude. \n- Excellent verbal and written communication skills. \n- Can work on a team or independently. \n- Install an aftermarket stereo or alarm system in any vehicle in less than an hour. \n- CAD experience is a PLUS. \n- Automotive background is a PLUS.",
+      "created_at": "2014-07-11T16:20:25Z",
+      "updated_at": "2014-07-11T16:20:25Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.1",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 90000,
+      "salary_max": 165000,
+      "angellist_url": "https://angel.co/jobs?startup_id=1463",
+      "tags": [
+        {
+          "id": 25255,
+          "tag_type": "SkillTag",
+          "name": "cad",
+          "display_name": "CAD",
+          "angellist_url": "https://angel.co/cad"
+        },
+        {
+          "id": 131735,
+          "tag_type": "SkillTag",
+          "name": "automobile engineering",
+          "display_name": "Automobile Engineering",
+          "angellist_url": "https://angel.co/automobile-engineering"
+        },
+        {
+          "id": 1847,
+          "tag_type": "LocationTag",
+          "name": "san mateo",
+          "display_name": "San Mateo",
+          "angellist_url": "https://angel.co/san-mateo"
+        },
+        {
+          "id": 103478,
+          "tag_type": "RoleTag",
+          "name": "hardware_engineer",
+          "display_name": "Hardware Engineer",
+          "angellist_url": "https://angel.co/hardware_engineer"
+        }
+      ],
+      "startup": {
+        "id": 1463,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Local Motion",
+        "angellist_url": "https://angel.co/local-motion",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/1463-920119dad204f6ea17cc6ef8288db9c7-medium_jpg.jpg?buster=1332465597",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/1463-920119dad204f6ea17cc6ef8288db9c7-thumb_jpg.jpg?buster=1332465597",
+        "quality": 9,
+        "product_desc": "Local Motion is building car-sharing technologies for fleets.\nTake a large municipality with 3000 vehicles. We start by installing our onboard module in every vehicle: it's a small RFID reader that sits behind the windshield and can lock or unlock the car doors. Employees can now book any car in the fleet and access it with their existing ID badge.\nUsers save time and stress.\nManagers get control and can start selling a big part of their fleet: every vehicle is used and shared by more people, so fewer vehicles are needed overall.\n",
+        "high_concept": "Turning fleets into smart transportation networks",
+        "follower_count": 383,
+        "company_url": "http://www.getlocalmotion.com",
+        "created_at": "2010-12-11T01:19:19Z",
+        "updated_at": "2014-04-22T22:38:41Z"
+      }
+    },
+    {
+      "id": 32836,
+      "title": "Software Engineer (back end)",
+      "description": "- You will be a core member of the software team of Local Motion\n- We release twice a week, so you will see the impact of your code instantly\n- We are small enough that every voice counts: if you want to change something in the company, we will give you the tools and help you succeed\n- We believe innovation comes from mistakes so we encourage risk taking\n\nYour experience:\n- You have been part of an early-stage project where you had to build everything from the ground up or you started your own company\n- You have build a service-oriented backend relying on a queuing system for asynchronous events\n- User inputs scare you and you deal with those like they are a highly unstable explosive\n- You SSH into a server before you take your first coffee of the day\n- You have a special relationship with your text editor (we used IDEA here, but we welcome any flavor)",
+      "created_at": "2014-07-11T16:15:00Z",
+      "updated_at": "2014-07-11T16:15:00Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.5",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 100000,
+      "salary_max": 140000,
+      "angellist_url": "https://angel.co/jobs?startup_id=1463",
+      "tags": [
+        {
+          "id": 15594,
+          "tag_type": "SkillTag",
+          "name": "jquery",
+          "display_name": "jQuery",
+          "angellist_url": "https://angel.co/jquery"
+        },
+        {
+          "id": 17275,
+          "tag_type": "SkillTag",
+          "name": "grails",
+          "display_name": "Grails",
+          "angellist_url": "https://angel.co/grails"
+        },
+        {
+          "id": 22286,
+          "tag_type": "SkillTag",
+          "name": "postgresql",
+          "display_name": "PostgreSQL",
+          "angellist_url": "https://angel.co/postgresql"
+        },
+        {
+          "id": 53991,
+          "tag_type": "SkillTag",
+          "name": "xmpp",
+          "display_name": "XMPP",
+          "angellist_url": "https://angel.co/xmpp"
+        },
+        {
+          "id": 87928,
+          "tag_type": "SkillTag",
+          "name": "ssh",
+          "display_name": "SSH",
+          "angellist_url": "https://angel.co/ssh-1"
+        },
+        {
+          "id": 1847,
+          "tag_type": "LocationTag",
+          "name": "san mateo",
+          "display_name": "San Mateo",
+          "angellist_url": "https://angel.co/san-mateo"
+        },
+        {
+          "id": 14726,
+          "tag_type": "RoleTag",
+          "name": "developer",
+          "display_name": "Developer",
+          "angellist_url": "https://angel.co/developer"
+        }
+      ],
+      "startup": {
+        "id": 1463,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Local Motion",
+        "angellist_url": "https://angel.co/local-motion",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/1463-920119dad204f6ea17cc6ef8288db9c7-medium_jpg.jpg?buster=1332465597",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/1463-920119dad204f6ea17cc6ef8288db9c7-thumb_jpg.jpg?buster=1332465597",
+        "quality": 9,
+        "product_desc": "Local Motion is building car-sharing technologies for fleets.\nTake a large municipality with 3000 vehicles. We start by installing our onboard module in every vehicle: it's a small RFID reader that sits behind the windshield and can lock or unlock the car doors. Employees can now book any car in the fleet and access it with their existing ID badge.\nUsers save time and stress.\nManagers get control and can start selling a big part of their fleet: every vehicle is used and shared by more people, so fewer vehicles are needed overall.\n",
+        "high_concept": "Turning fleets into smart transportation networks",
+        "follower_count": 383,
+        "company_url": "http://www.getlocalmotion.com",
+        "created_at": "2010-12-11T01:19:19Z",
+        "updated_at": "2014-04-22T22:38:41Z"
+      }
+    },
+    {
+      "id": 32835,
+      "title": "Systems Administrator",
+      "description": "Your Responsibilities:\n- Designing, organizing, modifying and supporting our company’s computer systems. \n- Setting up and maintaining our Linux and Windows servers. \n- Providing a reliable platform for our development team, from the hardware to the application server layer. \n- Designing hardware and network architecture. \n- Deploying a new dedicated VLAN with QoS for the SIP phones. \n- Setting up new laptops for new team members. \n- Maintaining LAN network to ensure connectivity at all times. \n- Ensuring design of system allows all components to work properly together. \n- Analyzing and isolating issues. \n- Troubleshooting problems reported by users. \n- Evaluating and modifying system’s performance. \n- Maintaining integrity of the network, server deployment and security. \n- Making recommendations for future upgrades. \n- Maintaining network facilities on individual computers, such as drivers, settings and printer configuration. \n- Identifying user needs. \n- Administering servers, computers, printers, routers, switches, phones, software deployment, firewalls, security updates and patches.",
+      "created_at": "2014-07-11T16:08:42Z",
+      "updated_at": "2014-07-11T16:10:46Z",
+      "equity_cliff": "1.0",
+      "equity_min": "0.0",
+      "equity_max": "0.1",
+      "equity_vest": "4.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 90000,
+      "salary_max": 140000,
+      "angellist_url": "https://angel.co/jobs?startup_id=1463",
+      "tags": [
+        {
+          "id": 20334,
+          "tag_type": "SkillTag",
+          "name": "computer science",
+          "display_name": "Computer Science",
+          "angellist_url": "https://angel.co/computer-science"
+        },
+        {
+          "id": 24755,
+          "tag_type": "SkillTag",
+          "name": "microsoft certified systems administrator",
+          "display_name": "Microsoft Certified Systems Administrator",
+          "angellist_url": "https://angel.co/microsoft-certified-systems-administrator"
+        },
+        {
+          "id": 31586,
+          "tag_type": "SkillTag",
+          "name": "linux",
+          "display_name": "Linux",
+          "angellist_url": "https://angel.co/linux-1"
+        },
+        {
+          "id": 40412,
+          "tag_type": "SkillTag",
+          "name": "vpn",
+          "display_name": "VPN",
+          "angellist_url": "https://angel.co/vpn"
+        },
+        {
+          "id": 88586,
+          "tag_type": "SkillTag",
+          "name": "iptables",
+          "display_name": "Iptables",
+          "angellist_url": "https://angel.co/iptables"
+        },
+        {
+          "id": 114482,
+          "tag_type": "SkillTag",
+          "name": "IT Support",
+          "display_name": "IT Support",
+          "angellist_url": "https://angel.co/it-support"
+        },
+        {
+          "id": 1847,
+          "tag_type": "LocationTag",
+          "name": "san mateo",
+          "display_name": "San Mateo",
+          "angellist_url": "https://angel.co/san-mateo"
+        },
+        {
+          "id": 129175,
+          "tag_type": "RoleTag",
+          "name": "operations",
+          "display_name": "Operations",
+          "angellist_url": "https://angel.co/operations-1"
+        }
+      ],
+      "startup": {
+        "id": 1463,
+        "hidden": false,
+        "community_profile": false,
+        "name": "Local Motion",
+        "angellist_url": "https://angel.co/local-motion",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/1463-920119dad204f6ea17cc6ef8288db9c7-medium_jpg.jpg?buster=1332465597",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/1463-920119dad204f6ea17cc6ef8288db9c7-thumb_jpg.jpg?buster=1332465597",
+        "quality": 9,
+        "product_desc": "Local Motion is building car-sharing technologies for fleets.\nTake a large municipality with 3000 vehicles. We start by installing our onboard module in every vehicle: it's a small RFID reader that sits behind the windshield and can lock or unlock the car doors. Employees can now book any car in the fleet and access it with their existing ID badge.\nUsers save time and stress.\nManagers get control and can start selling a big part of their fleet: every vehicle is used and shared by more people, so fewer vehicles are needed overall.\n",
+        "high_concept": "Turning fleets into smart transportation networks",
+        "follower_count": 383,
+        "company_url": "http://www.getlocalmotion.com",
+        "created_at": "2010-12-11T01:19:19Z",
+        "updated_at": "2014-04-22T22:38:41Z"
+      }
+    },
+    {
+      "id": 32834,
+      "title": "iOS Developer",
+      "description": "We are looking for one great iOS developer (junior or senior) to join our incredible team here in Montclair, NJ. If you live in NYC, no problem. You can work here a couple days a week and in the city a couple days a week. We are only a 30 minute train ride from Penn Station to Montclair, NJ.\n\nUpdateZen has just entered beta, and we are focusing on user acquisition for our beta, and responding to lots of feedback from our earliest beta users. There is a great deal of iOS development to do for our incredibly innovative solution.\n\nYou will be working with our VP Software Development who is one of the brightest, most experienced developers anywhere. \n\nWe have an awesome team, and we need a great developer with an even greater attitude. \n\nIf interested, email me at paul@updatezen.com",
+      "created_at": "2014-07-11T15:43:31Z",
+      "updated_at": "2014-07-11T15:45:53Z",
+      "equity_cliff": "1.0",
+      "equity_min": "1.0",
+      "equity_max": "2.0",
+      "equity_vest": "5.0",
+      "currency_code": "USD",
+      "job_type": "full-time",
+      "salary_min": 65000,
+      "salary_max": 85000,
+      "angellist_url": "https://angel.co/jobs?startup_id=235102",
+      "tags": [
+        {
+          "id": 17363,
+          "tag_type": "SkillTag",
+          "name": "ios development",
+          "display_name": "iOS Development",
+          "angellist_url": "https://angel.co/ios-development"
+        },
+        {
+          "id": 1794,
+          "tag_type": "LocationTag",
+          "name": "new jersey",
+          "display_name": "New Jersey",
+          "angellist_url": "https://angel.co/new-jersey"
+        },
+        {
+          "id": 14739,
+          "tag_type": "RoleTag",
+          "name": "mobile_developer",
+          "display_name": "Mobile Developer",
+          "angellist_url": "https://angel.co/mobile_developer"
+        }
+      ],
+      "startup": {
+        "id": 235102,
+        "hidden": false,
+        "community_profile": false,
+        "name": "UpdateZen",
+        "angellist_url": "https://angel.co/updatezen",
+        "logo_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/235102-1219b66cf8f5ebe8f6908d1e0e78894a-medium_jpg.jpg?buster=1392682328",
+        "thumb_url": "https://s3.amazonaws.com/photos.angel.co/startups/i/235102-1219b66cf8f5ebe8f6908d1e0e78894a-thumb_jpg.jpg?buster=1392682328",
+        "quality": 4,
+        "product_desc": "UpdateZen is a very simple status reporting tool that provides executives short updates on everything important their people are working on. We do this by providing their direct reports and team members with a simple interface to write updates and document the status of their projects.  UpdateZen replaces the dreaded weekly status update and other ad hoc ways executives are currently updated by their people.\n\n(via iPhone app and the web)",
+        "high_concept": "Simple status reports from your team",
+        "follower_count": 23,
+        "company_url": "http://www.updatezen.com",
+        "created_at": "2013-07-16T16:23:19Z",
+        "updated_at": "2014-07-11T15:47:56Z"
+      }
+    }
+  ],
+  "total": 11713,
+  "per_page": 50,
+  "page": 1,
+  "last_page": 235
+}

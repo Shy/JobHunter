@@ -1,0 +1,23 @@
+{
+  "name": "JobHunter",
+  "version": "0.0.0",
+  "description": "Solution to help people find jobs. ",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Shy/JobHunter.git"
+  },
+  "author": "Shy Ruparel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shy/JobHunter/issues"
+  },
+  "homepage": "https://github.com/Shy/JobHunter",
+  "dependencies": {
+    "async": "^0.9.0",
+    "underscore": "^1.6.0"
+  }
+}
