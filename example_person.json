@@ -1,13 +1,24 @@
 {
-    "person": {
-        "role" : ["Developer", "Engineer"],
-        "stack": [
-            "C++",
-            "Python",
-            "Web",
-            "Node"
-        ],
-        "location_desired": ["London", "New York", "San Francisco"],
-        "job_type": "full-time"
-    }
+  "person": {
+    "current_employer": "HackNY",
+    "role": [
+      "Developer",
+      "Engineer"
+    ],
+    "stack": [
+      "Python",
+      "Angular",
+      "Node",
+      "Javascript",
+      "Full Stack"
+    ],
+    "location_desired": [
+      "London",
+      "New York",
+      "San Francisco"
+    ],
+    "job_type": "full-time",
+     "salary_min": 70000,
+     "job_posting_age": 6
+  }
 }
