@@ -88,9 +88,6 @@ function findViableJobs(jobs, person, cb){
 //Load AngelList API and Get Person.
 getPerson(function (err, person) {
 
-    if (person.current_employer.toLowerCase() === 'lob'){
-        console.log("You currently work at Lob. Why do you need a new job?");
-    }
     console.log("Processing Angel List API. . .\n");
 
     var location_queries = [];
